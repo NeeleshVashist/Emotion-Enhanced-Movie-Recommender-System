@@ -1,0 +1,33 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb-meta
+
+# Jupyter lab
+.lab/
+
+# Python Virtual Environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and other generated files
+*.log
+*.dat
+
+# Temporary files
+*.tmp
+*.swp
+
+# Jupyter Notebook workspace
+nbwork/
+
+#Folders
+.project_instructions/
+
+#API Keys
+config.ini

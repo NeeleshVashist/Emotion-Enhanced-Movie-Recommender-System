@@ -1,0 +1,1683 @@
+movie_id,movie_title,unknown,Action,Adventure,Animation,Children,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western,youtube_video_id
+1,Toy Story (1995),0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,v-PjgYDrg70
+2,GoldenEye (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,lcOqUE0u1LM
+3,Four Rooms (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0hu12MP7b1U
+4,Get Shorty (1995),0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,t2QcA-KoF5s
+5,Copycat (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,5Pp64srMAH4
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,xgIHRczRE1Q
+7,Twelve Monkeys (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,15s4Y9ffW_o
+8,Babe (1995),0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,yuzXPzgBDvo
+9,Dead Man Walking (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,a-tLJ-OXN9I
+10,Richard III (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,OXc0-EME0C8
+11,Seven (Se7en) (1995),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,znmZoVkCjpI
+12,"Usual Suspects, The (1995)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,oiXdPolca5w
+13,Mighty Aphrodite (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6hsIc9reo7k
+14,"Postino, Il (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,SgbbmwHpoAA
+15,Mr. Holland's Opus (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,jPt_INy_CtM
+16,French Twist (Gazon maudit) (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7YnfJEgTBGA
+17,From Dusk Till Dawn (1996),0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,jNuIn4T-CLk
+18,"White Balloon, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,jL4l_tyPC0Y
+19,Antonia's Line (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3n1O-sKecdA
+20,Angels and Insects (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,bdqnz-FtIog
+21,Muppet Treasure Island (1996),0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,KLUdKoCganU
+22,Braveheart (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,nMft5QDOHek
+23,Taxi Driver (1976),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,T5IligQP7Fo
+24,Rumble in the Bronx (1995),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,q7vg8uGzLts
+25,"Birdcage, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,P7FcPlt8hHc
+26,"Brothers McMullen, The (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,WPsbUcvKzxQ
+27,Bad Boys (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Xm12NSa8jsM
+28,Apollo 13 (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,KtEIMC58sZo
+29,Batman Forever (1995),0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,ROLvjRB4E_Q
+30,Belle de jour (1967),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gC1lO7lqMuw
+31,Crimson Tide (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,I3ItZQb-GLM
+32,Crumb (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4FJiTCAmD4k
+33,Desperado (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,G3_vC5kSU6A
+34,"Doom Generation, The (1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,PZM-vG8DcRc
+35,Free Willy 2: The Adventure Home (1995),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SFnK1abzS9E
+36,Mad Love (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,OS4XqN-LaO4
+37,Nadja (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SB2FI3kqVgY
+38,"Net, The (1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,46qKHq7REI4
+39,Strange Days (1995),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,_DnLmuCcKRk
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,P2yNnEhsFno
+41,Billy Madison (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,V2Q40rXJuMU
+42,Clerks (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Mlfn5n-E2WE
+43,Disclosure (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,34WwXUlx7E4
+44,Dolores Claiborne (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,CG5yOZ7DO18
+45,Eat Drink Man Woman (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,l7pKpO8NErU
+46,Exotica (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,w6TdqnXSLaM
+47,Ed Wood (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,CawVaHxWvnA
+48,Hoop Dreams (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-TRIx7oD3lo
+49,I.Q. (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ihhHk6awueU
+50,Star Wars (1977),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1g3_CFmnU7k
+51,Legends of the Fall (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,QmfxbiMbASI
+52,"Madness of King George, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BHNSAK8d3qc
+53,Natural Born Killers (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,XpLKNclOtLg
+54,Outbreak (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Y5povsMKfT4
+55,"Professional, The (1994)",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,aNQqoExfQsg
+56,Pulp Fiction (1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,s7EdQ4FqbhY
+57,Priest (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mxlZ8hB5Q40
+58,Quiz Show (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bj-m3Ddmn0E
+59,Three Colors: Red (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RPLpbDFQZpg
+60,Three Colors: Blue (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Hxu6my_t4pM
+61,Three Colors: White (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6fX7tyxBNsM
+62,Stargate (1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,c3sgzrgpn8s
+63,"Santa Clause, The (1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Bx8FX7etF_8
+64,"Shawshank Redemption, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NmzuHjWmXOc
+65,What's Eating Gilbert Grape (1993),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,nCsVjQaNV0E
+66,While You Were Sleeping (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,nsJxyUvkB_E
+67,Ace Ventura: Pet Detective (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,qjBb1CKLpzE
+68,"Crow, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,N5uPZ7ocsqA
+69,Forrest Gump (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,bLvqoHBptjg
+70,Four Weddings and a Funeral (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,g-HeV8Z6iXc
+71,"Lion King, The (1994)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,lFzVJEksoDY
+72,"Mask, The (1994)",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,LZl69yk5lEY
+73,Maverick (1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,507KAlpplHw
+74,Faster Pussycat! Kill! Kill! (1965),0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,WG_aVlj3EqE
+75,Brother Minister: The Assassination of Malcolm X (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sx4sEvhYeVE
+76,Carlito's Way (1993),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,weO_jdrlRHQ
+77,"Firm, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,FX3AXA3icR0
+78,Free Willy (1993),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,xk0XY83eEuM
+79,"Fugitive, The (1993)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ETPVU0acnrE
+80,Hot Shots! Part Deux (1993),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1FkxFFAHMws
+81,"Hudsucker Proxy, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,dBa8p0NFwM8
+82,Jurassic Park (1993),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,QWBKEmWWL38
+83,Much Ado About Nothing (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,rbSN4Lv_N4g
+84,Robert A. Heinlein's The Puppet Masters (1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,rU6ghNfsQSI
+85,"Ref, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,avqzNZdoIoE
+86,"Remains of the Day, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,jALmEb72beg
+87,Searching for Bobby Fischer (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hOTc4D0uQNk
+88,Sleepless in Seattle (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ahI9LaOGYcE
+89,Blade Runner (1982),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,eogpIG53Cis
+90,So I Married an Axe Murderer (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,nGlyUmq9wE4
+91,"Nightmare Before Christmas, The (1993)",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,wr6N_hZyBCk
+92,True Romance (1993),0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,_wNYNDzKpuQ
+93,Welcome to the Dollhouse (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,5U0QG3L6XsE
+94,Home Alone (1990),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,jEDaVHmw7r4
+95,Aladdin (1992),0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,eTjHiQKJUDY
+96,Terminator 2: Judgment Day (1991),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,CRRlbK5w8AE
+97,Dances with Wolves (1990),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,uc8NMbrW7mI
+98,"Silence of the Lambs, The (1991)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,W6Mm8Sbe__o
+99,Snow White and the Seven Dwarfs (1937),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5fzZFQBXSLM
+100,Fargo (1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,ju75Sd4yAZw
+101,Heavy Metal (1981),0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,rKHYv2r4m6k
+102,"Aristocats, The (1970)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,zDCPJ3FH8hA
+103,All Dogs Go to Heaven 2 (1996),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,muR5N_9p3RY
+104,Theodore Rex (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dY7gsUL9Xkk
+105,Sgt. Bilko (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,qMQBJM11N-Y
+106,Diabolique (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+107,Moll Flanders (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MRzcKOTnrrs
+108,Kids in the Hall: Brain Candy (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,FIXQBdYjAWI
+109,Mystery Science Theater 3000: The Movie (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,aJJ8RLi73xI
+110,Operation Dumbo Drop (1995),0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,19JXZcmMJx0
+111,"Truth About Cats & Dogs, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6nFJcAt-ktU
+112,Flipper (1996),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,YQRbTNN-jNE
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,T98FhmNPzkU
+114,Wallace & Gromit: The Best of Aardman Animation (1996),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99cKEAvGf7g
+115,"Haunted World of Edward D. Wood Jr., The (1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dx2dn4bvuBE
+116,Cold Comfort Farm (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,tD3TI8bEOug
+117,"Rock, The (1996)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,a3qcNyjj9ZQ
+118,Twister (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OgG2jfBfLzI
+119,Maya Lin: A Strong Clear Vision (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,yGxtGxVZiAM
+120,Striptease (1996),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Ogp5KYh9xUA
+121,Independence Day (ID4) (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,B1E7h3SeMDk
+122,"Cable Guy, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,rhhI_qYOacw
+123,"Frighteners, The (1996)",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,lKWiQLwr9Xs
+124,Lone Star (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,UffK-IHM1B0
+125,Phenomenon (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,apduYg2VqTI
+126,"Spitfire Grill, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,pBISMUzU0Xo
+127,"Godfather, The (1972)",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,UaVTIH8mujA
+128,Supercop (1992),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,KsBcuVOkEsg
+129,Bound (1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,ToCMwdOaWh4
+130,Kansas City (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,H9PFVthayBE
+131,Breakfast at Tiffany's (1961),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,KlZ4fYqjGJI
+132,"Wizard of Oz, The (1939)",0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,njdreZRjvpc
+133,Gone with the Wind (1939),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0X94oZgJis4
+134,Citizen Kane (1941),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8dxh3lwdOFw
+135,2001: A Space Odyssey (1968),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,oR_e9y-bka0
+136,Mr. Smith Goes to Washington (1939),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mpJSB4Gbljc
+137,Big Night (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,lQQhoYLsoHI
+138,D3: The Mighty Ducks (1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CFSmoKm6c5A
+139,"Love Bug, The (1969)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,gn3gK27HIsw
+140,Homeward Bound: The Incredible Journey (1993),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ceOXz_DVLCA
+141,"20,000 Leagues Under the Sea (1954)",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,BdHWQOhs1x4
+142,Bedknobs and Broomsticks (1971),0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8xHM7TNxg3s
+143,"Sound of Music, The (1965)",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,bZNcqtx83Io
+144,Die Hard (1988),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,jaJuwKCmJbY
+145,"Lawnmower Man, The (1992)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,zzwPuJklv4w
+146,Unhook the Stars (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NFac_MOWFBs
+147,"Long Kiss Goodnight, The (1996)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,oDuma1M09B0
+148,"Ghost and the Darkness, The (1996)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,jGsiY-2CkPU
+149,Jude (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tVpgRZURgsA
+150,Swingers (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,nWCct8XbQD0
+151,Willy Wonka and the Chocolate Factory (1971),0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2cBja3AbahY
+152,Sleeper (1973),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,VDC1SUlXuGI
+153,"Fish Called Wanda, A (1988)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0WTwVpEEMps
+154,Monty Python's Life of Brian (1979),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TKPmGjVFbrY
+155,Dirty Dancing (1987),0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,eIcmQNy9FsM
+156,Reservoir Dogs (1992),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,vayksn4Y93A
+157,Platoon (1986),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,R8weLPF4qBQ
+158,Weekend at Bernie's (1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,YCTgcZ6ImsQ
+159,Basic Instinct (1992),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,EhRhuJOJkGg
+160,Glengarry Glen Ross (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,g2ofJqqsL5g
+161,Top Gun (1986),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,xa_z57UatDY
+162,On Golden Pond (1981),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Y85sfYVOS84
+163,"Return of the Pink Panther, The (1974)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,a1AMga5GaEQ
+164,"Abyss, The (1989)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4zbpL3LeW7k
+165,Jean de Florette (1986),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rDJXPiyvQfg
+166,Manon of the Spring (Manon des sources) (1986),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EfKFPktklmA
+167,Private Benjamin (1980),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,KTuip4gVJWg
+168,Monty Python and the Holy Grail (1974),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,urRkGvhXc8w
+169,"Wrong Trousers, The (1993)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4dOESXuTH2U
+170,Cinema Paradiso (1988),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,JMyVSD6OvO8
+171,Delicatessen (1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,GVL5_I4CvTc
+172,"Empire Strikes Back, The (1980)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,JNwNXF9Y6kY
+173,"Princess Bride, The (1987)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,O3CIXEAjcc8
+174,Raiders of the Lost Ark (1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0xQSIdSRlAk
+175,Brazil (1985),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ZKPFC8DA9_8
+176,Aliens (1986),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,oSeQQlaCZgU
+177,"Good, The Bad and The Ugly, The (1966)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,IFNUGzCOQoI
+178,12 Angry Men (1957),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TEN-2uTi2c0
+179,"Clockwork Orange, A (1971)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,T54uZPI4Z8A
+180,Apocalypse Now (1979),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,9l-ViOOFH-s
+181,Return of the Jedi (1983),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7L8p7_SLzvU
+182,GoodFellas (1990),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2ilzidi_J8Q
+183,Alien (1979),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,jQ5lPt9edzQ
+184,Army of Darkness (1993),0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,UHZQEtG8xYo
+185,Psycho (1960),0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,Wz719b9QUqY
+186,"Blues Brothers, The (1980)",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2HCR4c1zPyk
+187,"Godfather: Part II, The (1974)",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,9O1Iy9od7-A
+188,Full Metal Jacket (1987),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,n2i917l5RFc
+189,"Grand Day Out, A (1992)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,08Z3djT0h7A
+190,Henry V (1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,sJZTlrQZMjY
+191,Amadeus (1984),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,r7kWQj9FCGY
+192,Raging Bull (1980),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,yUp6d79WRVI
+193,"Right Stuff, The (1983)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ElzIPn1pXWE
+194,"Sting, The (1973)",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,_nAIb_J9T5M
+195,"Terminator, The (1984)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,k64P4l2Wmeg
+196,Dead Poets Society (1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ye4KFyWu2do
+197,"Graduate, The (1967)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6KnSucVko1s
+198,Nikita (La Femme Nikita) (1990),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,MploONnAKhI
+199,"Bridge on the River Kwai, The (1957)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,RlC7XBayj0s
+200,"Shining, The (1980)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,S014oGZiSdI
+201,Evil Dead II (1987),0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,6lM3NPeEG24
+202,Groundhog Day (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,GncQtURdcE4
+203,Unforgiven (1992),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ftTX4FoBWlE
+204,Back to the Future (1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,FHDKexBsSlU
+205,Patton (1970),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,bLXzqSmxGaM
+206,Akira (1988),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,nA8KmHC2Z-g
+207,Cyrano de Bergerac (1990),0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,fJyaXzAmYPs
+208,Young Frankenstein (1974),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,sO8g8VmFf0M
+209,This Is Spinal Tap (1984),0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,
+210,Indiana Jones and the Last Crusade (1989),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DKg36LBVgfg
+211,M*A*S*H (1970),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6yqx0VrbOhI
+212,"Unbearable Lightness of Being, The (1988)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SDQDwoFe6Ko
+213,"Room with a View, A (1986)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,xetPWLjrZCc
+214,Pink Floyd - The Wall (1982),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,5CJRnRyA4wA
+215,Field of Dreams (1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Ut06d4dptWo
+216,When Harry Met Sally... (1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,-E10AcydCuk
+217,Bram Stoker's Dracula (1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,CjgwUB1CXek
+218,Cape Fear (1991),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NNw_ar7XVyQ
+219,"Nightmare on Elm Street, A (1984)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,dCVh4lBfW-c
+220,"Mirror Has Two Faces, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,_QHkdKZtG_o
+221,Breaking the Waves (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SHqZh-9AiCs
+222,Star Trek: First Contact (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,B3NJ49VyjDs
+223,Sling Blade (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,-RLVfo4SZfg
+224,Ridicule (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,IICdZuA97hY
+225,101 Dalmatians (1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,VApVpvcGW1A
+226,Die Hard 2 (1990),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,CvHp7xJZ4_U
+227,Star Trek VI: The Undiscovered Country (1991),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,RYA2q2Sm_Jo
+228,Star Trek: The Wrath of Khan (1982),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,x8X44NRltMM
+229,Star Trek III: The Search for Spock (1984),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,aCgWzlxnqhc
+230,Star Trek IV: The Voyage Home (1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,QOhoIBkOYf0
+231,Batman Returns (1992),0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,repBHGIny0c
+232,Young Guns (1988),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,qLGhrmntLqU
+233,Under Siege (1992),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rl8pTF4f3Jg
+234,Jaws (1975),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,U1fu_sA7XhE
+235,Mars Attacks! (1996),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,DqtjHWlM4lQ
+236,Citizen Ruth (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,oIb4KbnMQ38
+237,Jerry Maguire (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,KUd3gwaf0KQ
+238,Raising Arizona (1987),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,OjWu8i6eMZo
+239,Sneakers (1992),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,G_XRqJV2zdk
+240,Beavis and Butt-head Do America (1996),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RzYWKWtRmzQ
+241,"Last of the Mohicans, The (1992)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,yaQeVnN6pUc
+242,Kolya (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TJ7XTi9S_Ag
+243,Jungle2Jungle (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7uQm7SOJymg
+244,Smilla's Sense of Snow (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,sr7svnup0Dk
+245,"Devil's Own, The (1997)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,M8Ke-xzfzQ8
+246,Chasing Amy (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,EiATQ04pH14
+247,Turbo: A Power Rangers Movie (1997),0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TRQJ-HcOd9s
+248,Grosse Pointe Blank (1997),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,-Uyx6HhfDOc
+249,Austin Powers: International Man of Mystery (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5vsANcS4Ml8
+250,"Fifth Element, The (1997)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5Sg2RkdkSvk
+251,Shall We Dance? (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,46HQAq2te-M
+252,"Lost World: Jurassic Park, The (1997)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,vtfwgaHD5_w
+253,"Pillow Book, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,d9TFEXgD6go
+254,Batman & Robin (1997),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4RBXypX4qWI
+255,My Best Friend's Wedding (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,P2segbP94SE
+256,When the Cats Away (Chacun cherche son chat) (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,F95VjML_PHI
+257,Men in Black (1997),0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,UxUTTrU6PA4
+258,Contact (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Q399v-pMG30
+259,George of the Jungle (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ITlM041DW1U
+260,Event Horizon (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2nlkEY-3CMI
+261,Air Bud (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0cOrwS3Xihw
+262,In the Company of Men (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,pZ3CQ-wtX_A
+263,Steel (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-bAWWmLfkWo
+264,Mimic (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,9BAcWCi4c0A
+265,"Hunt for Red October, The (1990)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NSiAsQMBSRA
+266,Kull the Conqueror (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,QDfs0SIvXqo
+267,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vSXUgkCjdBM
+268,Chasing Amy (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,EiATQ04pH14
+269,"Full Monty, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,d6bjW9OwSQc
+270,Gattaca (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,W_KruQhfvW4
+271,Starship Troopers (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,zPYuV_jGk7M
+272,Good Will Hunting (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ReIJ1lbL-Q8
+273,Heat (1995),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2GfZl4kuVNI
+274,Sabrina (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ptrnB3vMt5A
+275,Sense and Sensibility (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2WGq2Rbs1Qg
+276,Leaving Las Vegas (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,O4HrGa2-RLc
+277,Restoration (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CvsAuHYBgEQ
+278,Bed of Roses (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,GJ6-ymSjShg
+279,Once Upon a Time... When We Were Colored (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UwkAOHd8WRU
+280,Up Close and Personal (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6Y28HLt-fEg
+281,"River Wild, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,gWew8lWYhtI
+282,"Time to Kill, A (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,701GQjY6PaI
+283,Emma (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Jz_P43jHN6w
+284,Tin Cup (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,kEGZzvF6XVA
+285,Secrets & Lies (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,iZhqklQMcjA
+286,"English Patient, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Xk_LRcOFT0c
+287,Marvin's Room (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YbNp99EnCjI
+288,Scream (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,i3J6ACKQ7K0
+289,Evita (1996),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,DoFvMW9yfi8
+290,Fierce Creatures (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ZDIJiAPhfEc
+291,Absolute Power (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,_Q6KGpmhAn4
+292,Rosewood (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MhTg98WzH5U
+293,Donnie Brasco (1997),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,yRj2FKLsQbU
+294,Liar Liar (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,C1no75lpOiw
+295,Breakdown (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UtZGtIc1uQk
+296,"Promesse, La (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OsOi17HJZ5k
+297,Ulee's Gold (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ORI2PFOePYM
+298,Face/Off (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,S-nDX0BeFoQ
+299,Hoodlum (1997),0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Bm-0UrCCFyo
+300,Air Force One (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,FItgZOuaPVY
+301,In & Out (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Ps8UFQ69h1c
+302,L.A. Confidential (1997),0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,6sOXrY5yV4g
+303,Ulee's Gold (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ORI2PFOePYM
+304,Fly Away Home (1996),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FCjlubLJcxk
+305,"Ice Storm, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bNRJsanqOCE
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,VU4-kmV9O2M
+307,"Devil's Advocate, The (1997)",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,40hHA9n4C2o
+308,FairyTale: A True Story (1997),0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,QF3btTryoPo
+309,Deceiver (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,xFCtD18fFng
+310,"Rainmaker, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Odb3LrbvS_0
+311,"Wings of the Dove, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,a03XaApFiz4
+312,Midnight in the Garden of Good and Evil (1997),0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,8CD9ksgofU0
+313,Titanic (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,CHekzSiZjrY
+314,3 Ninjas: High Noon At Mega Mountain (1998),0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,isr7ENiGkao
+315,Apt Pupil (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,mFfXqzd7PlI
+316,As Good As It Gets (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,t2d89afgtqg
+317,In the Name of the Father (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+318,Schindler's List (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,gG22XNhtnoY
+319,Everyone Says I Love You (1996),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,Oa2VdDbE6lI
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,_QkUJtt61ps
+321,Mother (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,T6rRqZTVqP4
+322,Murder at 1600 (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,GpnoKlV41dU
+323,Dante's Peak (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,O8HNlhVbGzY
+324,Lost Highway (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1nKjO9QCSic
+325,Crash (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,UN9lpOEqg04
+326,G.I. Jane (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5nSlJSfnkWc
+327,Cop Land (1997),0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,DWLFW9iAr-E
+328,Conspiracy Theory (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,adYGUai7PNc
+329,Desperate Measures (1998),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,i63VGK1ElN0
+330,187 (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,x3W4bBk63MU
+331,"Edge, The (1997)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,hkSJGkgql3M
+332,Kiss the Girls (1997),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,duTNQE0NnlI
+333,"Game, The (1997)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,nsKdR05ZsGE
+334,U Turn (1997),0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,uUK79LRP-Nc
+335,How to Be a Player (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,V4nDMM5Jjws
+336,Playing God (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,-WaJA7mVk28
+337,"House of Yes, The (1997)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,48-M7MfrYMc
+338,Bean (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,OxLQZVmKWEo
+339,Mad City (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,r4fIOWINnHk
+340,Boogie Nights (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-7-JVbUtyoI
+341,Critical Care (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NnqNzGt9BiQ
+342,"Man Who Knew Too Little, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,-YAhpfcdx0U
+343,Alien: Resurrection (1997),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,15g12dGxWX4
+344,"Apostle, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fQe1Kehx110
+345,Deconstructing Harry (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,K9wYgL-Mglw
+346,Jackie Brown (1997),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,J9Bd4ShuEAw
+347,Wag the Dog (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,steA_PZPkc8
+348,Desperate Measures (1998),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,i63VGK1ElN0
+349,Hard Rain (1998),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Vsmt4B35hsM
+350,Fallen (1998),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,JC-ykURLzSg
+351,"Prophecy II, The (1998)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,XYZTkDr3C-s
+352,Spice World (1997),0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,BmSBtOHzGPM
+353,Deep Rising (1998),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,gVFEVXIyu00
+354,"Wedding Singer, The (1998)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Yy-TwYB1UQw
+355,Sphere (1998),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,GJvKLetIV20
+356,"Client, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,A6Ru1zDsws0
+357,One Flew Over the Cuckoo's Nest (1975),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OXrcDonY-B8
+358,Spawn (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,WukhbpAhvrc
+359,"Assignment, The (1997)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,RUgS5ES2qhc
+360,Wonderland (1997),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,OuXCatJa9ys
+361,Incognito (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,xReR33oKcDw
+362,Blues Brothers 2000 (1998),0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2eEpcETVV3s
+363,Sudden Death (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,tyq2TbL1OG8
+364,Ace Ventura: When Nature Calls (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,T8aos7_L4kA
+365,Powder (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dM1jktXwcSI
+366,Dangerous Minds (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,WOddX3H8M8E
+367,Clueless (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Mgjwq1ZzdPQ
+368,Bio-Dome (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4xD1ujNkZXs
+369,Black Sheep (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,R4gn9JZCN-A
+370,Mary Reilly (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0jb87JTGoMg
+371,"Bridges of Madison County, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Up-oN4NtvbM
+372,Jeffrey (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,HX-BHKnj0X0
+373,Judge Dredd (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Y9zBb3Q2Kso
+374,Mighty Morphin Power Rangers: The Movie (1995),0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gb5MGWPAiGg
+375,Showgirls (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,yAvd8Xhn6iY
+376,Houseguest (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ImjGBHRDW7c
+377,Heavyweights (1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,uD4GclR6ZEo
+378,Miracle on 34th Street (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,leDD6Y-Nyqg
+379,Tales From the Crypt Presents: Demon Knight (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,40bOBBbjbIQ
+380,Star Trek: Generations (1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,KxVyLLHLmz4
+381,Muriel's Wedding (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,vwkCIpLMZBw
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,QgFDIinCeYI
+383,"Flintstones, The (1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,pMnEbfzllso
+384,Naked Gun 33 1/3: The Final Insult (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3Q2GtjZ0RIY
+385,True Lies (1994),0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3B7HG8_xbDw
+386,Addams Family Values (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,EisokUNMfeA
+387,"Age of Innocence, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,I3Mx8OSlNYM
+388,Beverly Hills Cop III (1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,DbP7Ptyr1sA
+389,Black Beauty (1994),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-qCPMP4mNcQ
+390,Fear of a Black Hat (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zqp-aSPqQYc
+391,Last Action Hero (1993),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ShBw43KJoLk
+392,"Man Without a Face, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0kLAuJIm79o
+393,Mrs. Doubtfire (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3euGQ7-brs4
+394,Radioland Murders (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,cG4ONzna2Eg
+395,Robin Hood: Men in Tights (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dX4Ik-cyp-I
+396,Serial Mom (1994),0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,Ut9GvlhB9f4
+397,Striking Distance (1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5PbX4LXD6Es
+398,Super Mario Bros. (1993),0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,GuXwMHF9y1Y
+399,"Three Musketeers, The (1993)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Sy9HfwyICw4
+400,"Little Rascals, The (1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,FgyCE8VsGKM
+401,"Brady Bunch Movie, The (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UEU_HF6TSVo
+402,Ghost (1990),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,8uubih798tg
+403,Batman (1989),0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,dgC9Q0uhX70
+404,Pinocchio (1940),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GBgyVY_ClzQ
+405,Mission: Impossible (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Ohws8y572KE
+406,Thinner (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,p97ds4ZR7zM
+407,Spy Hard (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wJK-Djc3AFw
+408,"Close Shave, A (1995)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,WHrWFve2_0c
+409,Jack (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,SOmZ8Zw4SgM
+410,Kingpin (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ivpFM1hLr9I
+411,"Nutty Professor, The (1996)",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,o3wJ-jzZqBw
+412,"Very Brady Sequel, A (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BKkq5Iqujuw
+413,Tales from the Crypt Presents: Bordello of Blood (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Ri-M79IU3To
+414,My Favorite Year (1982),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,JqQWY8T5nok
+415,"Apple Dumpling Gang, The (1975)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,ChXz7yNjt3Y
+416,Old Yeller (1957),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VfBzeLChAzw
+417,"Parent Trap, The (1961)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,E0HVZHMGXsM
+418,Cinderella (1950),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UcjYD91YW_M
+419,Mary Poppins (1964),0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,YfkEQDPlb8g
+420,Alice in Wonderland (1951),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,PA-h3-0wheo
+421,William Shakespeare's Romeo and Juliet (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,8VOAxzgq42A
+422,Aladdin and the King of Thieves (1996),0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9GOQF17VO24
+423,E.T. the Extra-Terrestrial (1982),0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,qYAETtIIClk
+424,Children of the Corn: The Gathering (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,G98el8kUFJs
+425,Bob Roberts (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yRpWaJRyVQo
+426,"Transformers: The Movie, The (1986)",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,_25RK5GbJIc
+427,To Kill a Mockingbird (1962),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,KR7loA_oziY
+428,Harold and Maude (1971),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_ckWTn-y5Rw
+429,"Day the Earth Stood Still, The (1951)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,51JoEE_znyI
+430,Duck Soup (1933),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,9CEdb0sGfaI
+431,Highlander (1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,omOZyLmNMJs
+432,Fantasia (1940),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,vsKNm5G_KEc
+433,Heathers (1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,KJVKh9KKiug
+434,Forbidden Planet (1956),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,AxQ9GG6hUDM
+435,Butch Cassidy and the Sundance Kid (1969),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,YdJW2UxvSFQ
+436,"American Werewolf in London, An (1981)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Tfz9AhPnM8c
+437,Amityville 1992: It's About Time (1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,KGcBqiKL5uI
+438,Amityville 3-D (1983),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6SOBXnEY-Cc
+439,Amityville: A New Generation (1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5PmJj5-DvHs
+440,Amityville II: The Possession (1982),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,lwIgPbOXKI0
+441,"Amityville Horror, The (1979)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Iwa120o7m7k
+442,"Amityville Curse, The (1990)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zU2FxPsw9Sw
+443,"Birds, The (1963)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0fJh2gIBOto
+444,"Blob, The (1958)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,J-heIT3L9Qg
+445,"Body Snatcher, The (1945)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,lJO0BImGChY
+446,Burnt Offerings (1976),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Oo_6Fb5k2lo
+447,Carrie (1976),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,j9Mg-GRS46Y
+448,"Omen, The (1976)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,sS-sXcx30O4
+449,Star Trek: The Motion Picture (1979),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,wbvxV2OJQKk
+450,Star Trek V: The Final Frontier (1989),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7S5TDrAWBd8
+451,Grease (1978),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,qDKo8DNpwOw
+452,Jaws 2 (1978),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2-KIByGsyaI
+453,Jaws 3-D (1983),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,lt4g6xyZW10
+454,Bastard Out of Carolina (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HEdyshqbUJA
+455,Jackie Chan's First Strike (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fjst3TV4pz0
+456,Beverly Hills Ninja (1997),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,XSwpv54VgK8
+457,Free Willy 3: The Rescue (1997),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,cMYTTn4Pzmk
+458,Nixon (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dO2LWKpeyI8
+459,"Cry, the Beloved Country (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,G0i5S__Ns_Y
+460,"Crossing Guard, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,kDdwRURSEzI
+461,Smoke (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uem9TbvQpFk
+462,Like Water For Chocolate (Como agua para chocolate) (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,EkvgSTJkKGI
+463,"Secret of Roan Inish, The (1994)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,E0niI55VeDA
+464,Vanya on 42nd Street (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hJxvpLrp4yA
+465,"Jungle Book, The (1994)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5S8iH1YWIFI
+466,Red Rock West (1992),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,rqlGO7rYhwY
+467,"Bronx Tale, A (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,z50PjmZYS4A
+468,Rudy (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,firK4y-3bKw
+469,Short Cuts (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ePyhGz9_RCI
+470,Tombstone (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,QPTVLKKgGXw
+471,Courage Under Fire (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,9ZQE49MjyYQ
+472,Dragonheart (1996),0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,iRjSw-4qcgM
+473,James and the Giant Peach (1996),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,73ax6ZrcUx4
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,jPU1AYTxwg4
+475,Trainspotting (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8LuxOYIpu-I
+476,"First Wives Club, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RAZZJnab5nU
+477,Matilda (1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,hUGHWje7liM
+478,"Philadelphia Story, The (1940)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,oCfuPPR7wnQ
+479,Vertigo (1958),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Z5jvQwwHQNY
+480,North by Northwest (1959),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Fx0QuZJVTFE
+481,"Apartment, The (1960)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,OcslkrBMLGc
+482,Some Like It Hot (1959),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,rI_lUHOCcbc
+483,Casablanca (1942),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,MF7JH_54d8c
+484,"Maltese Falcon, The (1941)",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,3a9YU1SVbSE
+485,My Fair Lady (1964),0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,ZJBM6qs22sE
+486,Sabrina (1954),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,77YpsPwlEFQ
+487,Roman Holiday (1953),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ELb4S8P3q20
+488,Sunset Blvd. (1950),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,_dY0SVxnHjQ
+489,Notorious (1946),0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,EhMyp8ZvjWs
+490,To Catch a Thief (1955),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,6LNQXjKFKwU
+491,"Adventures of Robin Hood, The (1938)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BpqR6Ca-LL8
+492,East of Eden (1955),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,IqVoIQ5UsT8
+493,"Thin Man, The (1934)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,mqpO6mx8WCE
+494,His Girl Friday (1940),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-IS-KvD2_Zo
+495,Around the World in 80 Days (1956),0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,vjiCO8k6Jhg
+496,It's a Wonderful Life (1946),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,iLR3gZrU2Xo
+497,Bringing Up Baby (1938),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,F25nzu6hh0Q
+498,"African Queen, The (1951)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,gYBDRAp4Or8
+499,Cat on a Hot Tin Roof (1958),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AzogcorjLOI
+500,Fly Away Home (1996),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FCjlubLJcxk
+501,Dumbo (1941),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,tLtQ3bCvBA0
+502,Bananas (1971),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,8tO1xhgYvUM
+503,"Candidate, The (1972)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9RTIQWXzexU
+504,Bonnie and Clyde (1967),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,hZpm1zj9510
+505,Dial M for Murder (1954),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,JWP_hrNHSN4
+506,Rebel Without a Cause (1955),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HWHH5TwEwtI
+507,"Streetcar Named Desire, A (1951)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,u9YgJjSCT08
+508,"People vs. Larry Flynt, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fR6l4D47fW8
+509,My Left Foot (1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,xWPS3-mjkZc
+510,"Magnificent Seven, The (1954)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,nlXBaP7l5n4
+511,Lawrence of Arabia (1962),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,i0IzV1q9g9Q
+512,Wings of Desire (1987),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,qRCtqfd9IWQ
+513,"Third Man, The (1949)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,r9yyDEDGlr0
+514,Annie Hall (1977),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,OqVgCfZX-yE
+515,"Boot, Das (1981)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,KhNnU4h1Q50
+516,Local Hero (1983),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,VCFhg6Q6gXU
+517,Manhattan (1979),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,JEoEGW4Hb9w
+518,Miller's Crossing (1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hkJIcFMN_pc
+519,"Treasure of the Sierra Madre, The (1948)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XZ8Q9mOYJgE
+520,"Great Escape, The (1963)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,r9Q_WESQUVw
+521,"Deer Hunter, The (1978)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,g7q1SjVdsNk
+522,Down by Law (1986),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,7OHg4Ayewao
+523,Cool Hand Luke (1967),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,ofxtDrRVQY4
+524,"Great Dictator, The (1940)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,k8bVG8XC-4I
+525,"Big Sleep, The (1946)",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,n-K49CUaeto
+526,Ben-Hur (1959),0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NR1ZHKw09n8
+527,Gandhi (1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,B7I6D3mSYTE
+528,"Killing Fields, The (1984)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0Um2j1iEj1k
+529,My Life as a Dog (Mitt liv som hund) (1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QSqlvZy339s
+530,"Man Who Would Be King, The (1975)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,gjAi5ER5FOU
+531,Shine (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,aOkKH6-h6wA
+532,Kama Sutra: A Tale of Love (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-2yUd_LqtG8
+533,"Daytrippers, The (1996)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,HBZ3iVspjd8
+534,Traveller (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9dOZyrzR7R0
+535,Addicted to Love (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,cGqJY4hyRfo
+536,Ponette (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sgXbG12kJXI
+537,My Own Private Idaho (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2WoJ4GN5MaQ
+538,Anastasia (1997),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,M0vnBeHeuzs
+539,Mouse Hunt (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,qcNMWo7e4Fc
+540,Money Train (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,W2L-pfIjaB0
+541,Mortal Kombat (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,JHIfHL5UgFs
+542,Pocahontas (1995),0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,5iB82S8rHyg
+543,"Misérables, Les (1995)",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,hck5I4F1OgU
+544,Things to Do in Denver when You're Dead (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,tsN7bzOk4RM
+545,Vampire in Brooklyn (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1u9ZGB5F3MI
+546,Broken Arrow (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,T-C4rJM-9QU
+547,"Young Poisoner's Handbook, The (1995)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,N7_e79Ik3Vs
+548,"NeverEnding Story III, The (1994)",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,XiiyFFZjq0Y
+549,Rob Roy (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,p76fH8_a32Y
+550,Die Hard: With a Vengeance (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,i5asAs5HQkQ
+551,Lord of Illusions (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,lN1RToUAOQg
+552,Species (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ECe9Yqltw_w
+553,"Walk in the Clouds, A (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,cULvtpaIK9I
+554,Waterworld (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NpKbULrB9Z8
+555,White Man's Burden (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,WQWhDvKEiSw
+556,Wild Bill (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,chceChQAVjI
+557,Farinelli: il castrato (1994),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,nbX2diR9b4U
+558,Heavenly Creatures (1994),0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,kJ2yZjnPwQc
+559,Interview with the Vampire (1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,sCmYN6TLd8A
+560,"Kid in King Arthur's Court, A (1995)",0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,BhfjB2X-5O0
+561,Mary Shelley's Frankenstein (1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,hnxFuPw0JIE
+562,"Quick and the Dead, The (1995)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lo9cGqmHXhg
+563,Stephen King's The Langoliers (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,asQrdOA0joA
+564,Tales from the Hood (1995),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,dOO-A59c4C0
+565,Village of the Damned (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,qSIRK3MtIQ4
+566,Clear and Present Danger (1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,TuYb6ZNQaZo
+567,Wes Craven's New Nightmare (1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,aQw9sjwf0O8
+568,Speed (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,8piqd2BWeGI
+569,Wolf (1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,HXcm1cfVIRc
+570,Wyatt Earp (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,BS5n_Ql1v2k
+571,Another Stakeout (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,DPcFwi6lLm8
+572,Blown Away (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,f3N-e9BLZFo
+573,Body Snatchers (1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,vqSw1YOVtK4
+574,Boxing Helena (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,z1Fwwe8_wuo
+575,City Slickers II: The Legend of Curly's Gold (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,qByUG0k-K-c
+576,Cliffhanger (1993),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2j18n9shdw8
+577,Coneheads (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,j15rPm4i-t8
+578,Demolition Man (1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0B5v6QZ5R3g
+579,Fatal Instinct (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9ykW-780bHs
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1UWT0dMrYOM
+581,Kalifornia (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2ut7heVeMnM
+582,"Piano, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,cyTn4XIYH8M
+583,Romeo Is Bleeding (1993),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,OHft_cw-RBI
+584,"Secret Garden, The (1993)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1zeqqhA5Z3A
+585,Son in Law (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3wo6wxKUbmA
+586,Terminal Velocity (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cMzjb5OeYng
+587,"Hour of the Pig, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,MmqlvbQy10c
+588,Beauty and the Beast (1991),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,iurbZwxKFUE
+589,"Wild Bunch, The (1969)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,kdy0t_8mQBw
+590,Hellraiser: Bloodline (1996),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,epYPLH6k4Qk
+591,Primal Fear (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,glWAjoDVH3c
+592,True Crime (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,5zX2WAnifeA
+593,Stalingrad (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,k_i7UEQcg_0
+594,Heavy (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0-e6IEHAR6A
+595,"Fan, The (1996)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OJhwzOqqdqU
+596,"Hunchback of Notre Dame, The (1996)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,O6i3lyx1I_g
+597,Eraser (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,P3nrgwO3R-w
+598,"Big Squeeze, The (1996)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Qpxux0GPeaY
+599,Police Story 4: Project S (Chao ji ji hua) (1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9Xu6-YulCW0
+600,Daniel Defoe's Robinson Crusoe (1996),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,wmOZeZO0sGo
+601,For Whom the Bell Tolls (1943),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ZKB-Suz_2DQ
+602,"American in Paris, An (1951)",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,o2WAMZRCbpU
+603,Rear Window (1954),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,m01YktiEZCw
+604,It Happened One Night (1934),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Kd509cLN-9U
+605,Meet Me in St. Louis (1944),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,hdEouRM7Xv8
+606,All About Eve (1950),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uRjKPLH2OaQ
+607,Rebecca (1940),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,8YqFImp2xx8
+608,Spellbound (1945),0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,HIBaGIUbXqI
+609,Father of the Bride (1950),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,OCqEdzOZqAc
+610,Gigi (1958),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,rH8aVaeHqq4
+611,Laura (1944),0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,KgGtRJY516E
+612,Lost Horizon (1937),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BQ7g3HOGENs
+613,My Man Godfrey (1936),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,O8xoAtKjnqs
+614,Giant (1956),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,elMP6PqGBo0
+615,"39 Steps, The (1935)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,LBcNfAcU-Lc
+616,Night of the Living Dead (1968),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,pd5a0gs-UCQ
+617,"Blue Angel, The (Blaue Engel, Der) (1930)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lw6GJiGNO74
+618,Picnic (1955),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,k1A1vqmkftw
+619,Extreme Measures (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,SBRFmU-3mf8
+620,"Chamber, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9Qu4LuSdbTo
+621,"Davy Crockett, King of the Wild Frontier (1955)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,I0rT11txmmc
+622,Swiss Family Robinson (1960),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,O3qehNT3KjY
+623,Angels in the Outfield (1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wok7pG9_vX8
+624,"Three Caballeros, The (1945)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,fS_Xklf08EY
+625,"Sword in the Stone, The (1963)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,wYjUX1THmg8
+626,So Dear to My Heart (1949),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qkcNmKUe3RU
+627,Robin Hood: Prince of Thieves (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fhz5aB-u77Q
+628,Sleepers (1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,sVdiN_4gBWk
+629,Victor/Victoria (1982),0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,eQHX1Qczp6E
+630,"Great Race, The (1965)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,9biklE2wA6M
+631,"Crying Game, The (1992)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,F6N426QCQ-Y
+632,Sophie's Choice (1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,STPJVf6wqCk
+633,"Christmas Carol, A (1938)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,yVop9seXSoQ
+634,Microcosmos: Le peuple de l'herbe (1996),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,76R2EKEnoJQ
+635,"Fog, The (1980)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,fUyunS1hGyQ
+636,Escape from New York (1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,10OoccK7dIw
+637,"Howling, The (1981)",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,pZARVBpjC1I
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0AN8bS3bvlM
+639,"Tin Drum, The (Blechtrommel, Die) (1979)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NTKLqhT-tTo
+640,"Cook the Thief His Wife & Her Lover, The (1989)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qrsAjB8xc_8
+641,Paths of Glory (1957),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,nmDA60X-f_A
+642,"Grifters, The (1990)",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Y-aSj4uiR90
+643,The Innocent (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,eVu06Oyz6PI
+644,"Thin Blue Line, The (1988)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dNL5A4D0G4g
+645,Paris Is Burning (1990),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9SqvD1-0odY
+646,Once Upon a Time in the West (1969),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,c8CJ6L0I6W8
+647,Ran (1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,YwP_kXyd-Rw
+648,"Quiet Man, The (1952)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2kimSAyuIYc
+649,Once Upon a Time in America (1984),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,LcpCRyNo8T8
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,vZucwtdSvJ8
+651,Glory (1989),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0hVrYRqeT5M
+652,Rosencrantz and Guildenstern Are Dead (1990),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,LBfFYvdfL90
+653,Touch of Evil (1958),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,V-Oqn2hMp1M
+654,Chinatown (1974),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,p39LFdGI-YA
+655,Stand by Me (1986),0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,jaiZ6ZQoO-Y
+656,M (1931),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,nsVproWjN6c
+657,"Manchurian Candidate, The (1962)",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Oc8LpuM5Bhs
+658,Pump Up the Volume (1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uo-km-qfJe8
+659,Arsenic and Old Lace (1944),0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,GCWBDwkhGN0
+660,Fried Green Tomatoes (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qOlA1_ZxbfM
+661,High Noon (1952),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,g9CR_tib0CA
+662,Somewhere in Time (1980),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,9uicvPZSKIM
+663,Being There (1979),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,oOOghKacg40
+664,"Paris, Texas (1984)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9e590FeeGCM
+665,Alien 3 (1992),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Ipv1y-Phi7A
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-mxhJzSKV08
+667,Audrey Rose (1977),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zXYteTL_Aqo
+668,Blood Beach (1981),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,LaKYBzvScUc
+669,Body Parts (1991),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3iuSPLth6PY
+670,Body Snatchers (1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,vqSw1YOVtK4
+671,Bride of Frankenstein (1935),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,rYD3-pIF9jQ
+672,Candyman (1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AFjb447gMIM
+673,Cape Fear (1962),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,lej6ZDMieD4
+674,Cat People (1982),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VKMFlipKWs8
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ZxlJxDr26mM
+676,"Crucible, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4OBffF0s3Hc
+677,Fire on the Mountain (1996),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,V9tpqAUxVMs
+678,Volcano (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,MDN18yHEv2I
+679,Conan the Barbarian (1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,INjkNVpvQxM
+680,Kull the Conqueror (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,QDfs0SIvXqo
+681,Wishmaster (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Fr2WXx129PY
+682,I Know What You Did Last Summer (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,rEnCEM48QaY
+683,Rocket Man (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CJWolzZRQx4
+684,In the Line of Fire (1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,FuZdS9da4S4
+685,Executive Decision (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,hY4EfSHyIyA
+686,"Perfect World, A (1993)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dGDIOhZMmzo
+687,McHale's Navy (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,K_MLWXe3PCc
+688,Leave It to Beaver (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,mZXVBHwFJy8
+689,"Jackal, The (1997)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,nszMBbCZKo4
+690,Seven Years in Tibet (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,m9a_7WFcPlI
+691,Dark City (1998),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,gt9HkO-cGGo
+692,"American President, The (1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,dyGibtCfMLM
+693,Casino (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EJXDMwGWhoA
+694,Persuasion (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,lYSHAyODiGs
+695,Kicking and Screaming (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,hMJuES9UYGY
+696,City Hall (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Vf1cyURBziw
+697,"Basketball Diaries, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-Zc7T0vUpj0
+698,"Browning Version, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,yhKQH-ZLtrM
+699,Little Women (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sET83nlk1NU
+700,Miami Rhapsody (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,H-FofBXlWKA
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,91607Aqn-mo
+702,Barcelona (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,O2ZTOyuUfrg
+703,Widows' Peak (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_Z0NmfGwnUc
+704,"House of the Spirits, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,XGjmJSPzEfw
+705,Singin' in the Rain (1952),0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,5_EVHeNEIJY
+706,Bad Moon (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,xJJuCvWR9fM
+707,Enchanted April (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1-HsRAM2Ink
+708,"Sex, Lies, and Videotape (1989)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6BMZrfINaUk
+709,Strictly Ballroom (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,lxprz6gOmpg
+710,Better Off Dead... (1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NdSavg_i_lw
+711,"Substance of Fire, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,96ySXx-84JA
+712,Tin Men (1987),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,ajetxCpdwbY
+713,Othello (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,WIIjya_5Oro
+714,Carrington (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,w60AMje46pA
+715,To Die For (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,gSz13CIyX7M
+716,Home for the Holidays (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,vEguAZ0RqnQ
+717,"Juror, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Awng-jZnkoY
+718,In the Bleak Midwinter (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,bOMaQb_eM5k
+719,Canadian Bacon (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4jf8Bt4gD9Y
+720,First Knight (1995),0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,zO1_r6slUlk
+721,Mallrats (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,toFqw3d7TlA
+722,Nine Months (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dVmOU8HPf_E
+723,Boys on the Side (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2rXXJpdwGnI
+724,Circle of Friends (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,gkDsay1CrHo
+725,Exit to Eden (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,kX40spgvG6A
+726,Fluke (1995),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ozYFLnuBVFU
+727,Immortal Beloved (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,e2ql5wODeMY
+728,Junior (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,aNfsJuv0bJU
+729,Nell (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TMdq4zNOGF8
+730,"Queen Margot (Reine Margot, La) (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,AcCPByEp3KI
+731,"Corrina, Corrina (1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,mzLSpdXRz6U
+732,Dave (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,taDreDT3E6A
+733,Go Fish (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,uH62jI2_vLE
+734,Made in America (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dPPN93A3RRs
+735,Philadelphia (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CKDz2LVHz0Y
+736,Shadowlands (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,NLKS0XGRYi8
+737,Sirens (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,JTzat7vRdCQ
+738,Threesome (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,lted8OJBJWI
+739,Pretty Woman (1990),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2EBAVoN8L_U
+740,Jane Eyre (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,KR7gr84m2GY
+741,"Last Supper, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,jNPSHydODoI
+742,Ransom (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,mebIhXK8srA
+743,"Crow: City of Angels, The (1996)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ptt-3fC3bcU
+744,Michael Collins (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,nvFV6xOWK9I
+745,"Ruling Class, The (1972)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,mBKG6oaeCGw
+746,Real Genius (1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,xuv7SIVNkx8
+747,Benny & Joon (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,oPjBb1qeiK4
+748,"Saint, The (1997)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,qkscr4gDcP8
+749,"MatchMaker, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,PhTjYefSkuc
+750,Amistad (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BJFDOvGMD0U
+751,Tomorrow Never Dies (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,eqrk7-mx2D0
+752,"Replacement Killers, The (1998)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Y1s3Gq1NYK4
+753,Burnt By the Sun (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ssJbC2pNaCA
+754,Red Corner (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0nlfKbMIh4g
+755,Jumanji (1995),0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,eTjDsENDZ6s
+756,Father of the Bride Part II (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BbvnDlu_Zjc
+757,Across the Sea of Time (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,CYWtLEJg_OY
+758,Lawnmower Man 2: Beyond Cyberspace (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8v0cmQrdNjg
+759,Fair Game (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,YC3npzqwXcs
+760,Screamers (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,qrgAvr0TIr4
+761,Nick of Time (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,WlbQTPJsmv8
+762,Beautiful Girls (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,yfQ5ONwWxI8
+763,Happy Gilmore (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,y1emDAYCfVQ
+764,If Lucy Fell (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,TNTV9Txit-Q
+765,Boomerang (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,xCr5RlXidhg
+766,Man of the Year (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,fQGq24fykpg
+767,"Addiction, The (1995)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,b5gWXUuse3Q
+768,Casper (1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fVET4AN0Dcs
+769,Congo (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,MBohjBi348Y
+770,Devil in a Blue Dress (1995),0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,7bWekMNDfT8
+771,Johnny Mnemonic (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,EFJY_BZ55sI
+772,Kids (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,U9a5tZSKDOU
+773,Mute Witness (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Ss5Hw3uiArs
+774,"Prophecy, The (1995)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-ynKNaSkih4
+775,Something to Talk About (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,x1wNnEaYfYM
+776,Three Wishes (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1E27hTW8LNo
+777,Castle Freak (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,L7a0100v14c
+778,Don Juan DeMarco (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,AteQZ7q6rtA
+779,Drop Zone (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FrR6QwWMxr8
+780,Dumb & Dumber (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,l13yPhimE3o
+781,French Kiss (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,tL9rSD0wrHM
+782,Little Odessa (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LkGY1-IvSmU
+783,Milk Money (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,mQJDvN59u6o
+784,Beyond Bedlam (1993),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,erzlRY0PWFE
+785,Only You (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,zLrqyfkXt_A
+786,"Perez Family, The (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,o1u4ulROfUA
+787,Roommates (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,FN988syzg1U
+788,Relative Fear (1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,hVwPmQEugcw
+789,Swimming with Sharks (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,UH9OLQh46FY
+790,Tommy Boy (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9btKFrFhq28
+791,"Baby-Sitters Club, The (1995)",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FGG_TKydPsM
+792,Bullets Over Broadway (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CO11u1jOntI
+793,Crooklyn (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,KnYl1TfWD-U
+794,It Could Happen to You (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,8ZAfzdzZqRA
+795,Richie Rich (1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Yddr5thpDTE
+796,Speechless (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,PxZo3oM5k2E
+797,Timecop (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,VYw_24STp8o
+798,Bad Company (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,tf6dFhAfTuE
+799,Boys Life (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OLYENHi4IIc
+800,In the Mouth of Madness (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,AlugldzO9zY
+801,"Air Up There, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0bc_EmUZJ84
+802,Hard Target (1993),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,ckl8Zb5tOTI
+803,Heaven & Earth (1993),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,7yYV6k4t-Ec
+804,Jimmy Hollywood (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,w_lphmbPUwE
+805,Manhattan Murder Mystery (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3Gerca4N3ag
+806,Menace II Society (1993),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,GqRdmI8t8PA
+807,Poetic Justice (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Ek6jk408STU
+808,"Program, The (1993)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dBOwtSdtAYg
+809,Rising Sun (1993),0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,-EXt9QUAWz4
+810,"Shadow, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,l0lbmUaooSw
+811,Thirty-Two Short Films About Glenn Gould (1993),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,iwx4xm4FeEE
+812,Andre (1994),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2vDp3_Hrw9Y
+813,"Celluloid Closet, The (1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,JL_vrb4-6_0
+814,"Great Day in Harlem, A (1994)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,QDKSISoy5zc
+815,One Fine Day (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,BJjj_v33mTs
+816,Candyman: Farewell to the Flesh (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,jpInUUDkZwo
+817,Frisk (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OultAtx3ptc
+818,Girl 6 (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yGxWoppTujU
+819,Eddie (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_iuDUSj5jaI
+820,Space Jam (1996),0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,oKNy-MWjkcU
+821,Mrs. Winterbourne (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ukQ9SfY2gJo
+822,Faces (1968),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,l_53iJ6JF68
+823,Mulholland Falls (1996),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,-yaTz-zj_lU
+824,"Great White Hype, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,WnyftZZ880s
+825,"Arrival, The (1996)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,GOc01_Ty1eQ
+826,"Phantom, The (1996)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2Nzg8I1y3ko
+827,Daylight (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,tRWIfCpxNK4
+828,Alaska (1996),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iKpgVlwF5vY
+829,Fled (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HcI_nr9zgr0
+830,Power 98 (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,nTFrwDWmOvA
+831,Escape from L.A. (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,o6SWofbYD90
+832,Bogus (1996),0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6XhSSlaIlow
+833,Bulletproof (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,iOPXStM4blg
+834,Halloween: The Curse of Michael Myers (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,UICcApCPOtU
+835,"Gay Divorcee, The (1934)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,v1D4cgExsxc
+836,Ninotchka (1939),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,mP3GmdopSiM
+837,Meet John Doe (1941),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9j3gdbdnoEk
+838,In the Line of Duty 2 (1987),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1zRHgp6S9pg
+839,Loch Ness (1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,L90001PVzec
+840,Last Man Standing (1996),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Rz4pQWEtEhg
+841,"Glimmer Man, The (1996)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,VBvXYk8AWmg
+842,Pollyanna (1960),0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,XVtLP5tfpCA
+843,"Shaggy Dog, The (1959)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,lRyZxcIB374
+844,Freeway (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Eom5Ows-56U
+845,That Thing You Do! (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zhyO3Pc6oSI
+846,To Gillian on Her 37th Birthday (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,v3HER2IPuV4
+847,Looking for Richard (1996),0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,nVgdtcNwIGQ
+848,"Murder, My Sweet (1944)",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,PHRDGxSL2o4
+849,Days of Thunder (1990),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,oPXL4_eZ4-M
+850,"Perfect Candidate, A (1996)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2y3neAt6Olo
+851,Two or Three Things I Know About Her (1966),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UjRlMX01_4A
+852,"Bloody Child, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0vInmqLEoWA
+853,Braindead (1992),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,O8LIug1cP04
+854,Bad Taste (1987),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7IHwKJOZZ6U
+855,Diva (1981),0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,Lugx0xX2G54
+856,Night on Earth (1991),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,b12pcc3ZWho
+857,Paris Was a Woman (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,riDem1mSAqk
+858,Amityville: Dollhouse (1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,R7J_KVRGPgU
+859,April Fool's Day (1986),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,EgeBYZSSIIc
+860,"Believers, The (1987)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6-NmMuukdYE
+861,Nosferatu a Venezia (1986),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2hZKHf4OvrU
+862,Jingle All the Way (1996),0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,jhJYMEzQA-Q
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,eQ4Zg9tv0NI
+864,My Fellow Americans (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_57GKDXmXKk
+865,"Ice Storm, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bNRJsanqOCE
+866,Michael (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Tw1jwFTDrSU
+867,"Whole Wide World, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bHvOeMRgPuw
+868,Hearts and Minds (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QcE6CdR60NY
+869,Fools Rush In (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,hLKa24D1KUk
+870,Touch (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,JMHkz97bddc
+871,Vegas Vacation (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,U5jQU0gsuaE
+872,Love Jones (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,xNMoQ_Cqt4E
+873,Picture Perfect (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,A2YjI0Fre2o
+874,Career Girls (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,H3ZEYe-qYrI
+875,She's So Lovely (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,fDRO_SlFnZ4
+876,Money Talks (1997),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,juTBjT-hzlc
+877,Excess Baggage (1997),0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,GhX7-V-ShiQ
+878,That Darn Cat! (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,KcoXN28yL9Q
+879,"Peacemaker, The (1997)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,UURCLhzk5P8
+880,Soul Food (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3lKicGtI-WI
+881,Money Talks (1997),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,juTBjT-hzlc
+882,Washington Square (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,K3i253Glu20
+883,Telling Lies in America (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,XhrT0SD69EQ
+884,Year of the Horse (1997),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,CoJicHPkPa8
+885,Phantoms (1998),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-fP0MsVr21s
+886,"Life Less Ordinary, A (1997)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,k6K5q72jy9c
+887,Eve's Bayou (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6mXU9qVFRpM
+888,One Night Stand (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,XAAtn2Y2fTg
+889,"Tango Lesson, The (1997)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yfn5_sz_B8M
+890,Mortal Kombat: Annihilation (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ObHbkrh8qZM
+891,Bent (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,GA0CCzh3x_g
+892,Flubber (1997),0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,KEAewElEcCo
+893,For Richer or Poorer (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,vanu_y5NY6s
+894,Home Alone 3 (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PP--dDh4axI
+895,Scream 2 (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,QXjofSo5Je0
+896,"Sweet Hereafter, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VCZ9ewiuS1E
+897,Time Tracers (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,qgpzsLyrPqU
+898,"Postman, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,V43K5yFn5GM
+899,"Winter Guest, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,jt3AT-8rKGk
+900,Kundun (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UePpB9Qatnw
+901,Mr. Magoo (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,h4CChNuUxYA
+902,"Big Lebowski, The (1998)",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,cd-go0oBF4Y
+903,Afterglow (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2iMQfah17Ec
+904,Ma vie en rose (My Life in Pink) (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8EfW77w9i9c
+905,Great Expectations (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6EugG5ayMfs
+906,Oscar & Lucinda (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Q9KRbrmc-A0
+907,Vermin (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4tZ4rUFBEkQ
+908,Half Baked (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,HMhUnO2u6qI
+909,Dangerous Beauty (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,n_g4qspx3es
+910,Nil By Mouth (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_BsPLaS0ksg
+911,Twilight (1998),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,R2IFIMyZPnQ
+912,U.S. Marshalls (1998),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,_shXM-868Q8
+913,Love and Death on Long Island (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UJaAMIojNL0
+914,Wild Things (1998),0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,M6DsFyC9l-U
+915,Primary Colors (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,llEsfNtE4iQ
+916,Lost in Space (1998),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,tsmacmhdrUs
+917,Mercury Rising (1998),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Lodj3ZT4tOU
+918,City of Angels (1998),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,wCrcDidiGJs
+919,"City of Lost Children, The (1995)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Pa7oVPru4J8
+920,Two Bits (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BYDPyVqZx9M
+921,Farewell My Concubine (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,O6GI7YSZGVA
+922,Dead Man (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,nn2nQMfLqwg
+923,Raise the Red Lantern (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,x8kwb4qFrT4
+924,White Squall (1996),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2T6WvayGd64
+925,Unforgettable (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5RLDDt6Jpes
+926,Down Periscope (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,lTyxmVou27w
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UMaUZyqg6J8
+928,"Craft, The (1996)",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,SxEqB--5ToI
+929,Harriet the Spy (1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,pV1YuMsPO88
+930,Chain Reaction (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,qBvBOZl6wzw
+931,"Island of Dr. Moreau, The (1996)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,u8tVk61sHsQ
+932,First Kid (1996),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_t7ubr0jBII
+933,"Funeral, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uRgBedsCOWk
+934,"Preacher's Wife, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TYcvQTNG_7E
+935,Paradise Road (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3C4Khj5D7lI
+936,Brassed Off (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,_b4zPoleN28
+937,"Thousand Acres, A (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FViocvb1xyw
+938,"Smile Like Yours, A (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,MZWjzoWPPV8
+939,Murder in the First (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,oMbMwdPwnYE
+940,Airheads (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,mpxOTk4DDJo
+941,With Honors (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,DZ7Fm26YJjs
+942,What's Love Got to Do with It (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4YMzT2Uelts
+943,Killing Zoe (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,_tjzuutVnzs
+944,Renaissance Man (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,HU7DpT-s2VA
+945,Charade (1963),0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,C6T2Q4XO7uA
+946,"Fox and the Hound, The (1981)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbuIeTHh4To
+947,"Big Blue, The (Grand bleu, Le) (1988)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,WNkIjVyf3UQ
+948,Booty Call (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,wdaNdRAOlJU
+949,How to Make an American Quilt (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,K5_2VgJUSBA
+950,Georgia (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+951,"Indian in the Cupboard, The (1995)",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,H6AEYBcwsR8
+952,Blue in the Face (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,gw_iod-RPSE
+953,Unstrung Heroes (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,sth8EmI2y6g
+954,Unzipped (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,qNmJKsGylaY
+955,Before Sunrise (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,6MUcuqbGTxc
+956,Nobody's Fool (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tp4wbA1Vj2o
+957,Pushing Hands (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4GJ9OTI4GSY
+958,To Live (Huozhe) (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,IhRgMU0wyB8
+959,Dazed and Confused (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3aQuvPlcB-8
+960,Naked (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,g1axEqfItxg
+961,Orlando (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gUmTvO9KHHU
+962,Ruby in Paradise (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0rP7fR6dJAk
+963,Some Folks Call It a Sling Blade (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,DfnPrMypS8U
+964,"Month by the Lake, A (1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,YX6mtTLHlkg
+965,Funny Face (1957),0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Hs6ASCq9YtY
+966,"Affair to Remember, An (1957)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1qFSl4DiKXA
+967,Little Lord Fauntleroy (1936),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OMmxSELuP-8
+968,"Inspector General, The (1949)",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,t3ehZvLL2UE
+969,Winnie the Pooh and the Blustery Day (1968),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,lIRTFlGjohw
+970,Hear My Song (1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SWgVws6_AVs
+971,Mediterraneo (1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Q3WJvaEjAlU
+972,Passion Fish (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RsugtjWFMeQ
+973,Grateful Dead (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,qS--pwEJRtg
+974,Eye for an Eye (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,WJjRn_GH9R8
+975,Fear (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,p2AlffKozbg
+976,Solo (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,sV-4gWRtNxY
+977,"Substitute, The (1996)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vsaUp6_jcJY
+978,Heaven's Prisoners (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,hwuRDxzitek
+979,"Trigger Effect, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,8WY5wRJLLpo
+980,Mother Night (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,KYbXUWw61ug
+981,Dangerous Ground (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D313rsokyXg
+982,Maximum Risk (1996),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,gc780wLdGds
+983,"Rich Man's Wife, The (1996)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NGCcCuY00OE
+984,Shadow Conspiracy (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,U2CNeff1Q5M
+985,Blood & Wine (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7nt8deWy-CA
+986,Turbulence (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,29nriO8ux0Q
+987,Underworld (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,cCtm8L4PQt8
+988,"Beautician and the Beast, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,mI6p6BHQHL4
+989,Cats Don't Dance (1997),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,B7KpF7BF0ew
+990,Anna Karenina (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,my7icJ-mfmc
+991,Keys to Tulsa (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7O2MiY2gZII
+992,Head Above Water (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Q1sIHx8QXus
+993,Hercules (1997),0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,vlblxDGoGwo
+994,"Last Time I Committed Suicide, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9HViIBZsBfk
+995,"Kiss Me, Guido (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ktZ-biaaxk0
+996,"Big Green, The (1995)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,uBOsdyx6V6M
+997,Stuart Saves His Family (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,P2bCdymB7do
+998,Cabin Boy (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,cmBq41nVrXs
+999,Clean Slate (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,tBOd_AiVa-8
+1000,Lightning Jack (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,UWkFm6FKLEY
+1001,"Stupids, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SDFlRsDIAd4
+1002,"Pest, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,p6mRIElGyE8
+1003,That Darn Cat! (1997),0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,KcoXN28yL9Q
+1004,Geronimo: An American Legend (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,v4alqybzcic
+1005,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NCGEbsbvayo
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,zfFWBWKwQT8
+1007,Waiting for Guffman (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,s0Ml4u3hLlY
+1008,I Shot Andy Warhol (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qAQRCcQlXXE
+1009,Stealing Beauty (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SStzlZz6lxc
+1010,Basquiat (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GsWZyvtX5tU
+1011,2 Days in the Valley (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,rQf5BI1_K50
+1012,Private Parts (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,c8pqttYzlc8
+1013,Anaconda (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ZkjWyIdIBJo
+1014,Romy and Michele's High School Reunion (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,iYPnUrREbRg
+1015,Shiloh (1997),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Y7fGNsgCcHc
+1016,Con Air (1997),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Olvpk5BXWCI
+1017,Trees Lounge (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NJWALbC0tSY
+1018,Tie Me Up! Tie Me Down! (1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8LU9r1Qm6rg
+1019,"Die xue shuang xiong (Killer, The) (1989)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Cdxehm0NxkU
+1020,Gaslight (1944),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0ToLfQU2xmg
+1021,8 1/2 (1963),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RmIC9pQ80Fk
+1022,"Fast, Cheap & Out of Control (1997)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,n9gFKHAFG94
+1023,Fathers' Day (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,xsQfKt08Xlk
+1024,Mrs. Dalloway (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,p6Iv7r-aRWs
+1025,Fire Down Below (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,V_DmZTmSS0A
+1026,"Lay of the Land, The (1997)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,xADT-sJpg7I
+1027,"Shooter, The (1995)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2e9SEgU-_mc
+1028,Grumpier Old Men (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1lMmYysiB9A
+1029,Jury Duty (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,EEARDSdiQ74
+1030,"Beverly Hillbillies, The (1993)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zrfOOZWK49o
+1031,Lassie (1994),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VkwPGVUHg9E
+1032,Little Big League (1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Ty4dtsphtA8
+1033,Homeward Bound II: Lost in San Francisco (1996),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8avPL8bdYYQ
+1034,"Quest, The (1996)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EaCbSlAsQoE
+1035,Cool Runnings (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wLlmymHRNZg
+1036,Drop Dead Fred (1991),0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,-26xw-ALeiA
+1037,Grease 2 (1982),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,WQTUEj-TqLo
+1038,Switchback (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,wwzxZvnx9Aw
+1039,Hamlet (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TUN3_yAOUNo
+1040,Two if by Sea (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,cN2omT-8oRs
+1041,Forget Paris (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,G8ZHyJoKYnM
+1042,Just Cause (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,oiFqWwJsbAk
+1043,Rent-a-Kid (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,00-WPchnLTE
+1044,"Paper, The (1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,4NeHWLZbs0g
+1045,Fearless (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tm5jBa4LzxQ
+1046,Malice (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,OzpqLRb2lfs
+1047,Multiplicity (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,I19IuJYbuyg
+1048,She's the One (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,_3_TVzGHxnk
+1049,House Arrest (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SlZX2o4n3Pk
+1050,"Ghost and Mrs. Muir, The (1947)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,n-X00-BoG9o
+1051,"Associate, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BBAkNCO7R78
+1052,Dracula: Dead and Loving It (1995),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ctsxTvTQUZI
+1053,Now and Then (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RQLVzTtt2Ws
+1054,Mr. Wrong (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1055,"Simple Twist of Fate, A (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Mt2__27L358
+1056,Cronos (1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,22UrI0YdzEQ
+1057,"Pallbearer, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8e9fp9TAJCY
+1058,"War, The (1994)",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,w7aE0a8keiA
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,JAAhQwcJ20U
+1060,"Adventures of Pinocchio, The (1996)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DdSZWvO7DU4
+1061,"Evening Star, The (1996)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,491s6_6f_DA
+1062,Four Days in September (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rfP1gfolnxM
+1063,"Little Princess, A (1995)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Q3WJrWZ_npg
+1064,Crossfire (1947),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,bFbxVZbGCi0
+1065,Koyaanisqatsi (1983),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,tDW-1JIa2gI
+1066,Balto (1995),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HJwvbmRXym4
+1067,Bottle Rocket (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,JJPQ-NnjZR0
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hNCT7tsPoZw
+1069,Amateur (1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,GLhu37ozFx8
+1070,Living in Oblivion (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,EQgqgY5MHac
+1071,Party Girl (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9y-TvmzQ8qA
+1072,"Pyromaniac's Love Story, A (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ZPWFsnqJeNk
+1073,Shallow Grave (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,HbxNej_MJlw
+1074,Reality Bites (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,ZTlyNhT2fbM
+1075,"Man of No Importance, A (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,soWVMrp250U
+1076,"Pagemaster, The (1994)",0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,wEiJecKrFBw
+1077,Love and a .45 (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,g--jB-lptZE
+1078,Oliver & Company (1988),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EExIKWcqSAI
+1079,Joe's Apartment (1996),0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,es0dcoiww60
+1080,Celestial Clockwork (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Onk9Yii56kw
+1081,Curdled (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,IgNXkUUZ6vU
+1082,Female Perversions (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,m0qQWMEx7bs
+1083,Albino Alligator (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,zqhzJMfbqv4
+1084,Anne Frank Remembered (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,HFMnh-n7U7w
+1085,Carried Away (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,CIh7KqQKN9E
+1086,It's My Party (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fc57UJcDxDM
+1087,Bloodsport 2 (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LIk91uagubk
+1088,Double Team (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VlF6TNmcw5E
+1089,Speed 2: Cruise Control (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Lnvvh9PLWGQ
+1090,Sliver (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,J2pcpvDFhoc
+1091,Pete's Dragon (1977),0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,vUW0a_I3kxU
+1092,Dear God (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,gXgiAEdIQ4s
+1093,Live Nude Girls (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,F1E81SD6Q7k
+1094,"Thin Line Between Love and Hate, A (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,XUl5pi5M0b4
+1095,High School High (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,cRH0J4GIum4
+1096,Commandments (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,F_uPUojgT54
+1097,"Hate (Haine, La) (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,viwmlW6ENiY
+1098,Flirting With Disaster (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,b0nE4KWZ4Io
+1099,"Red Firecracker, Green Firecracker (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QQqbpU-yEEA
+1100,What Happened Was... (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,8ZAfzdzZqRA
+1101,Six Degrees of Separation (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,IBO1Sr14eQQ
+1102,Two Much (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,pgmwpFvx0aI
+1103,Trust (1990),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,pIgv4Tvx3V0
+1104,C'est arrivé près de chez vous (1992),0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,56o4N0TKJVg
+1105,Firestorm (1998),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,CcHSj4wxpMw
+1106,"Newton Boys, The (1998)",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,UJDYrGDE0Ww
+1107,Beyond Rangoon (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Ow_yBFgyUvQ
+1108,Feast of July (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FRUtLNTv7dU
+1109,Death and the Maiden (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,MxR1pHaMpcY
+1110,Tank Girl (1995),0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,mef757ZGUIU
+1111,Double Happiness (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6aNuAq-INtE
+1112,Cobb (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NZeCgMpLwnU
+1113,Mrs. Parker and the Vicious Circle (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,eMX6BubBwmM
+1114,Faithful (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yJQ4SWsCaWQ
+1115,Twelfth Night (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,R39jE4SUEF4
+1116,"Mark of Zorro, The (1940)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,zijP4G5X4ms
+1117,Surviving Picasso (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DL1-FNcQZW8
+1118,Up in Smoke (1978),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zpvv81988v0
+1119,Some Kind of Wonderful (1987),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,_NrpW9_zJ9Q
+1120,I'm Not Rappaport (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,POTXeDnGVxU
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,eqzQn15mFao
+1122,They Made Me a Criminal (1939),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,EAV_dWlD1VE
+1123,"Last Time I Saw Paris, The (1954)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YsdphhdPACg
+1124,"Farewell to Arms, A (1932)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,KT1RIeg5WL0
+1125,"Innocents, The (1961)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,o5Q-dIJeX8Q
+1126,"Old Man and the Sea, The (1958)",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,g8rDRPOOSHU
+1127,"Truman Show, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dlnmQbPGuls
+1128,Heidi Fleiss: Hollywood Madam (1995) ,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,oA7M9qSJKrE
+1129,Chungking Express (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,C3NDz_7KP2g
+1130,Jupiter's Wife (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,AYQnhL0atiw
+1131,Safe (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,MP3kLKLaiTw
+1132,Feeling Minnesota (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0-xSv0k1fvA
+1133,Escape to Witch Mountain (1975),0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,nswae1s320k
+1134,Get on the Bus (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gHHiYMOx_M8
+1135,"Doors, The (1991)",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,IERQmR2qESU
+1136,Ghosts of Mississippi (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,nm8plXv5Yck
+1137,Beautiful Thing (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,YeGBkXoOe6Q
+1138,Best Men (1997),0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Iz3LHk12Gx4
+1139,Hackers (1995),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Rn2cf_wJ4f4
+1140,"Road to Wellville, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wQviGrzIKQY
+1141,"War Room, The (1993)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,pgo-qwfCFYU
+1142,When We Were Kings (1996),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,pqRP_5H5jmU
+1143,Hard Eight (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,AwLWHNuJ-2M
+1144,"Quiet Room, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YpHF5t7S-98
+1145,Blue Chips (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,__rpV2VjaME
+1146,Calendar Girl (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,oUJS43bp8ms
+1147,My Family (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,V2mQUID4Wx8
+1148,Tom & Viv (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YZyOxE04wnE
+1149,Walkabout (1971),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Fdqwbs8uKwQ
+1150,Last Dance (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_aLZr3oBk9E
+1151,Original Gangstas (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,xmT3EP8QRuM
+1152,In Love and War (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,WjcLMspAPGc
+1153,Backbeat (1993),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5hbfyo8alXg
+1154,Alphaville (1965),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CzaATgGHmy0
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,uNundAo7nTo
+1156,Cyclo (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,
+1157,"Relic, The (1997)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,bFbvUDpRBuo
+1158,"Fille seule, La (A Single Girl) (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gOU5irEzdVM
+1159,Stalker (1979),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,YuOnfQd-aTw
+1160,Love! Valour! Compassion! (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,IdoegW8LI5Q
+1161,Palookaville (1996),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,70mmikY8rd0
+1162,Phat Beach (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wpmB3kZoKpw
+1163,"Portrait of a Lady, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,x9brMfU0OGU
+1164,Zeus and Roxanne (1997),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AGr2LVoZA2M
+1165,Big Bully (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,9MB0FQS5YTU
+1166,Love & Human Remains (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_1cjHboN8Mw
+1167,"Sum of Us, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,p_eGUINTNHA
+1168,Little Buddha (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,skta2sxQGiQ
+1169,Fresh (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,a_9hTnNErbo
+1170,Spanking the Monkey (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,zCxlFPnsEU4
+1171,Wild Reeds (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,L3On9Zj0Xnw
+1172,"Women, The (1939)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,I8WsqaN4izs
+1173,Bliss (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,wMIlXgzP00I
+1174,Caught (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,pJAQlqryO8M
+1175,Hugo Pool (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,e8Dn186y6Fk
+1176,Welcome To Sarajevo (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,IOmm1OD2ArQ
+1177,Dunston Checks In (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Abh5_EhkUjU
+1178,Major Payne (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,x7PYvuyUVqE
+1179,Man of the House (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4fIJywTBQc8
+1180,I Love Trouble (1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-ki1OW0ugt0
+1181,"Low Down Dirty Shame, A (1994)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-kRfPEO_5aY
+1182,Cops and Robbersons (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,WtEYTu8vxoA
+1183,"Cowboy Way, The (1994)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,McAPp0LAfOw
+1184,"Endless Summer 2, The (1994)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4hh4Mc7mtJE
+1185,In the Army Now (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,D8WQ8sgWaVU
+1186,"Inkwell, The (1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,o-1YuAGU8hA
+1187,Switchblade Sisters (1975),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,qc8Pd2ou9L4
+1188,Young Guns II (1990),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,kn8omp12ns8
+1189,Prefontaine (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rfugwn5EUuk
+1190,That Old Feeling (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,uLNv4KXcWoM
+1191,"Letter From Death Row, A (1998)",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,QvxNcXXtGw8
+1192,"Boys of St. Vincent, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,pbRPPtpZTo0
+1193,Before the Rain (Pred dozhdot) (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3U5qi9YhGmg
+1194,Once Were Warriors (1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,N0-Q3ChKcfE
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qWv7dKxWhz4
+1196,"Savage Nights (Nuits fauves, Les) (1992)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7vjvM96klS8
+1197,"Family Thing, A (1996)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,65tMREjQXAQ
+1198,Purple Noon (1960),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,hdQZXUOHGMs
+1199,Cemetery Man (Dellamorte Dellamore) (1994),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,qyCLou8mlZE
+1200,Kim (1950),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tTr9sipMBYw
+1201,Marlene Dietrich: Shadow and Light (1996) ,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-HvkQhzhZJE
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BzoHTJdzniQ
+1203,Top Hat (1935),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,XPdIWk097ls
+1204,To Be or Not to Be (1942),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,7W_B10VbYjI
+1205,"Secret Agent, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Ucj89v5H5Uo
+1206,Amos & Andrew (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,lNNi5pWn5xs
+1207,Jade (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9yQ1L97C9FU
+1208,Kiss of Death (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,OzDKmB6bfQQ
+1209,Mixed Nuts (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dwBG2CXDXcc
+1210,Virtuosity (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,tdYoDEh_L7M
+1211,Blue Sky (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,DEumw-eXW7w
+1212,Flesh and Bone (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,O3obUpQ3J4Y
+1213,Guilty as Sin (1993),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,bMq4KTxP2TM
+1214,In the Realm of the Senses (Ai no corrida) (1976),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,w-o8EKjXJPQ
+1215,Barb Wire (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,MpkBe1fGcZU
+1216,Kissed (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,AakbRH_71gE
+1217,Assassins (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,XCuD8Q_Y10Q
+1218,Friday (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,umvFBoLOOgo
+1219,"Goofy Movie, A (1995)",0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,aFYCQoIpGuE
+1220,Higher Learning (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R9CZErJ9idU
+1221,When a Man Loves a Woman (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fk-qz0zdYwU
+1222,Judgment Night (1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,G5p7wq2PcJM
+1223,King of the Hill (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fHamua2ORRY
+1224,"Scout, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bcwqBH0QqVY
+1225,Angus (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,x1pyVPFQ7lw
+1226,Night Falls on Manhattan (1997),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,IV4ILkVxycA
+1227,"Awfully Big Adventure, An (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HPBkA3GuvcY
+1228,Under Siege 2: Dark Territory (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LorQZ4TfbTQ
+1229,Poison Ivy II (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,LBSR7PAHow0
+1230,Ready to Wear (Pret-A-Porter) (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ENrpGFroUbw
+1231,Marked for Death (1990),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9KvW9Q9875Q
+1232,Madonna: Truth or Dare (1991),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,CtYp9YKhUZ8
+1233,Nénette et Boni (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tQK6omIiKTg
+1234,Chairman of the Board (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,c4dcjfaO0qk
+1235,"Big Bang Theory, The (1994)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,pyRUijyrXr4
+1236,"Other Voices, Other Rooms (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0bBhEciISaY
+1237,Twisted (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,OgG2jfBfLzI
+1238,Full Speed (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,F_Q75YEnaXk
+1239,Cutthroat Island (1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7z8IARBbpzU
+1240,Ghost in the Shell (Kokaku kidotai) (1995),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8RF09G8Ymqg
+1241,"Van, The (1996)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,OHBbENOcZ9A
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,QE1dUe9CpV0
+1243,Night Flier (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Do6BqbQRIv8
+1244,Metro (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cFVS7k-H5Yc
+1245,Gridlock'd (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Zz12rUg_15c
+1246,Bushwhacked (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M4Le9yxuzgo
+1247,Bad Girls (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,CvSpONjcX2o
+1248,Blink (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,FF0h1IoDcng
+1249,For Love or Money (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0tbjFm1jDZI
+1250,Best of the Best 3: No Turning Back (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Z4F3w7SPJ3E
+1251,A Chef in Love (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,InZ933U6Hx0
+1252,"Contempt (Mépris, Le) (1963)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rF0Ju0ONwGU
+1253,"Tie That Binds, The (1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3VZwHAMcVvA
+1254,Gone Fishin' (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,JkTqqKWdjRE
+1255,Broken English (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_RzinWFTgpo
+1256,"Designated Mourner, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gEM6aSaHfMU
+1257,"Designated Mourner, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gEM6aSaHfMU
+1258,Trial and Error (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Z2VR6bn69FM
+1259,Pie in the Sky (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5IKnZe5BB2I
+1260,Total Eclipse (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+1261,"Run of the Country, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QYXCFtoTFVs
+1262,Walking and Talking (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ohAd27SbH6E
+1263,Foxfire (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SQ-CopNrehU
+1264,Nothing to Lose (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,w03jEKHNBEI
+1265,Star Maps (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,L5CWtkNLLfM
+1266,Bread and Chocolate (Pane e cioccolata) (1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dqf-nQWtSJg
+1267,Clockers (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YsFUoioGePc
+1268,Bitter Moon (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hGynIx4Dd3c
+1269,Love in the Afternoon (1957),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,M4kgqWLAtA0
+1270,Life with Mikey (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,FPQLHxLT1QY
+1271,North (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zInygRFVbxA
+1272,Talking About Sex (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,34WwXUlx7E4
+1273,Color of Night (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,09rrVrDZJYU
+1274,Robocop 3 (1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,VWBo9-YtSQs
+1275,Killer (Bulletproof Heart) (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Vnh6xMo02UE
+1276,Sunset Park (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0VADAuzpzt4
+1277,Set It Off (1996),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Qb5jq3doQa8
+1278,Selena (1997),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,EVMSuZXEz4s
+1279,Wild America (1997),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CNglAvAenxU
+1280,Gang Related (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,zffnWNSgeEo
+1281,Manny & Lo (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-lucc4SIhaY
+1282,"Grass Harp, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1tqWK4wbwk4
+1283,Out to Sea (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Gnf--nARR5E
+1284,Before and After (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,SAmbXIWzRYo
+1285,Princess Caraboo (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,c64OgMcMknM
+1286,Shall We Dance? (1937),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,mWlDVSlv-2s
+1287,Ed (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6Ns29dh4yok
+1288,Denise Calls Up (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,nMsQ2jWom_M
+1289,Jack and Sarah (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,T1PDRMXmGqs
+1290,Country Life (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,n8_Vmt5zxOI
+1291,Celtic Pride (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2yE8RTsx4mc
+1292,"Simple Wish, A (1997)",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,cVYQN5Al1ck
+1293,Star Kid (1997),0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,gr6CoJ6sLz8
+1294,Ayn Rand: A Sense of Life (1997),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,woFY7LhVlKo
+1295,Kicked in the Head (1997),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,lROaHZbHbWQ
+1296,Indian Summer (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,PBXSkZ3uW9c
+1297,Love Affair (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,MFYgkoY-rU8
+1298,"Band Wagon, The (1953)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,rgvJPU8t6kE
+1299,Penny Serenade (1941),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,lqu1oGLC50I
+1300,'Til There Was You (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,at_B-lsOvUo
+1301,Stripes (1981),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sKHwEoCIYqA
+1302,Late Bloomers (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wf7WAzLkbd8
+1303,"Getaway, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-SFrz55rnVs
+1304,New York Cop (1996),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,fI1yBop4p58
+1305,National Lampoon's Senior Trip (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0xa74mYgSnI
+1306,Delta of Venus (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Gg9c-WnK6sM
+1307,Carmen Miranda: Bananas Is My Business (1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ssSpMZ2VE0g
+1308,Babyfever (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,xxNKkJgav3Q
+1309,"Very Natural Thing, A (1974)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gUUjxE1BwNg
+1310,"Walk in the Sun, A (1945)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,wc0gyzQHJ1Q
+1311,Waiting to Exhale (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,t5iE3Wt2cJs
+1312,"Pompatus of Love, The (1996)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,_1Jw51zk06w
+1313,Palmetto (1998),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,HIzG2skqkLo
+1314,Surviving the Game (1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,HlUQFDxJedg
+1315,Inventing the Abbotts (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,H1CSxxlnIMA
+1316,"Horse Whisperer, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_nCowPQ2aa4
+1317,"Journey of August King, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1TRhDH599C4
+1318,Catwalk (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,qNmJKsGylaY
+1319,"Neon Bible, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gYTPJcTUHCs
+1320,Homage (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rImkFc2jNOg
+1321,Open Season (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Ji6ghfTyNlA
+1322,Metisse (Café au Lait) (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,iozLJsvKHDs
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-y9LgpU2ugQ
+1324,Loaded (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,ooscbQ4huTA
+1325,August (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,67QgTJDbYO4
+1326,Boys (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7zkoiOq2Urw
+1327,Captives (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Z2LIMGsmuqU
+1328,Of Love and Shadows (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0uijz9WWE3Q
+1329,"Low Life, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RDcdta_LKQI
+1330,An Unforgettable Summer (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,p7KSdXn_zm0
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fPtpHw1gJ_Y
+1333,Midnight Dancers (Sibak) (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,KpaetgaY90c
+1334,Somebody to Love (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gGRJkaxndzg
+1335,American Buffalo (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ZsWPpq_AqDA
+1336,Kazaam (1996),0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,fFVaxa1UKNg
+1337,Larger Than Life (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,I4xX5vuxOaY
+1338,Two Deaths (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,roNMQZoPK_I
+1339,Stefano Quantestorie (1993),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,28I4WdBRuB4
+1340,"Crude Oasis, The (1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,XHRA5nnuDMI
+1341,Hedd Wyn (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,zqdn9UU4upo
+1342,"Convent, The (Convento, O) (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Il4j_0R1doE
+1343,Lotto Land (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,j1x5PJ0SY8Y
+1344,"Story of Xinghua, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UAOv53cR1iw
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+1346,Dingo (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mUj1m_iQAJo
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,JjUEjBYVtS0
+1348,Every Other Weekend (1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LHLMmuY5Zg0
+1349,Mille bolle blu (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,milpphMpv9M
+1350,Crows and Sparrows (1949),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,q4hzTQ6TAss
+1351,Lover's Knot (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,phsP6RbDOXI
+1352,Shadow of Angels (Schatten der Engel) (1976),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2mA53X_ruUY
+1353,1-900 (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,oK4etva_lUU
+1354,Venice/Venice (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RglUAG1TyWQ
+1355,Infinity (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,U0tE1GkugR0
+1356,Ed's Next Move (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_yjEggmgwQk
+1357,For the Moment (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,pE7hVSlk7Zw
+1358,The Deadly Cure (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TTYZydn0mhU
+1359,Boys in Venice (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QlZpb28ztFc
+1360,"Sexual Life of the Belgians, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,eNePw0W6tNc
+1361,"Search for One-eye Jimmy, The (1996)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8iVzHXibwzI
+1362,American Strays (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8TKRgXHmcCo
+1363,"Leopard Son, The (1996)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1AfBwPrB4pM
+1364,Bird of Prey (1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OHc23vfhwUU
+1365,Johnny 100 Pesos (1993),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UdFvWNY93cU
+1366,JLG/JLG - autoportrait de décembre (1994),0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,mk1AK-G6UF4
+1367,Faust (1994),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UyW46Pbsp9k
+1368,Mina Tannenbaum (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NpY2QcnH5D8
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sZGxXI632sk
+1370,I Can't Sleep (J'ai pas sommeil) (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,MMcBEOvxXj4
+1371,"Machine, The (1994)",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,rZ2DkxXbQ1Y
+1372,"Stranger, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4e3RqRwaLfg
+1373,Good Morning (1971),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NvY2ZBHxuIw
+1374,Falling in Love Again (1980),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,_NEjdtWbstc
+1375,"Cement Garden, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R0_2Jiuqhek
+1376,Meet Wally Sparks (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Z8MBl2oi7dg
+1377,Hotel de Love (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,tJ93SCmo5fI
+1378,Rhyme & Reason (1997),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,87ZsI67U-jE
+1379,Love and Other Catastrophes (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,phlG54Gt5NA
+1380,Hollow Reed (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rfd0Ns0legM
+1381,Losing Chase (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,h8T9ng5sZ08
+1382,"Bonheur, Le (1965)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,H_apt9n4y88
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,YYQW8rWIrDY
+1384,Squeeze (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Qpxux0GPeaY
+1385,Roseanna's Grave (For Roseanna) (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,_fgp09yxrKI
+1386,Tetsuo II: Body Hammer (1992),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,hC7XSvXSdpI
+1387,Fall (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,jHNdnqomSVc
+1388,Gabbeh (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uym7gc5_SA8
+1389,Mondo (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Akjr19WB5kU
+1390,"Innocent Sleep, The (1995)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,VlZhJiN6syE
+1391,For Ever Mozart (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,A2LvEmJ8KXc
+1392,"Locusts, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NKRW4Rk8lAE
+1393,Stag (1997),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,x69QdJh-qsY
+1394,Swept from the Sea (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9BSstWVjFis
+1395,Hurricane Streets (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PZibLqWZ7cM
+1396,Stonewall (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fMN_YpOT_ko
+1397,Of Human Bondage (1934),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8I3UfGMYr6I
+1398,Anna (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,j2VTZmegLnI
+1399,Stranger in the House (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,mIYgklAHuzI
+1400,Picture Bride (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,YRGocXhqGPc
+1401,M. Butterfly (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fgANS15AN4I
+1402,"Ciao, Professore! (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,uWYPozEgFmw
+1403,Caro Diario (Dear Diary) (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,C_l75RaVadc
+1404,Withnail and I (1987),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,d9Z0DV33gAY
+1405,Boy's Life 2 (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,P28qmkCrNSM
+1406,When Night Is Falling (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,J5mszOh_Qis
+1407,"Specialist, The (1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mqTrjDsEg4g
+1408,Gordy (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RSTZl1bENrc
+1409,"Swan Princess, The (1994)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,RgUCPG2G50s
+1410,Harlem (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M6WwZLvxV9Q
+1411,Barbarella (1968),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Ks5eE-lTFDw
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,QJhtT0KGvdg
+1413,Street Fighter (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HsTKoGcFS78
+1414,Coldblooded (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,noSrT4BgwB0
+1415,"Next Karate Kid, The (1994)",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5LNE7jk2QWY
+1416,No Escape (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,wHSwdSTETXA
+1417,"Turning, The (1992)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vxn8LscM2aE
+1418,"Joy Luck Club, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0nYDMp1LdT8
+1419,Highlander III: The Sorcerer (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,eW_HzYMNOng
+1420,Gilligan's Island: The Movie (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,X2PJSgZQG_w
+1421,My Crazy Life (Mi vida loca) (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Ij5CYR6TaHM
+1422,Suture (1993),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,IzZSguDxGsk
+1423,"Walking Dead, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3bbEMGHCtRg
+1424,I Like It Like That (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,nwn0lAjj8OE
+1425,I'll Do Anything (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,j4UUAeof5Go
+1426,Grace of My Heart (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,rvmH7pHVvzw
+1427,Drunks (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_IguspdTqfQ
+1428,SubUrbia (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sHxxbcI8g6A
+1429,Sliding Doors (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Da-Mizk86AE
+1430,Ill Gotten Gains (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,N7VxkRZcJdY
+1431,Legal Deceit (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2vx3mfgWEpc
+1432,"Mighty, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NUm_Xg8ZuPo
+1433,Men of Means (1998),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3wW2QNq98JQ
+1434,Shooting Fish (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,dRm60XEC9tc
+1435,"Steal Big, Steal Little (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,63jqLUiWiwM
+1436,Mr. Jones (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,cVKtVrNjNWs
+1437,House Party 3 (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,nhdpCI--YbQ
+1438,Panther (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6_K3LUtw0sY
+1439,Jason's Lyric (1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,CJvsoqon1wA
+1440,Above the Rim (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sEsCXWD7-Cc
+1441,Moonlight and Valentino (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,-8iNZhmlW1w
+1442,"Scarlet Letter, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,wzoFrXEdC74
+1443,8 Seconds (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,I2Sgit4QPlM
+1444,That Darn Cat! (1965),0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,QfqVYCRdtdc
+1445,Ladybird Ladybird (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,REPoYxk2W7w
+1446,"Bye Bye, Love (1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,aF0ws2vpSw4
+1447,Century (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5B5Sg5YXP-k
+1448,My Favorite Season (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,z7tbO3dwri0
+1449,Pather Panchali (1955),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,KNvVucYbSHE
+1450,Golden Earrings (1947),0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,GG0a0HI1WZM
+1451,Foreign Correspondent (1940),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,zXbQ7CRaAao
+1452,Lady of Burlesque (1943),0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,mMQFu1M_abw
+1453,Angel on My Shoulder (1946),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,dGJA9rMWpos
+1454,Angel and the Badman (1947),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,tEEgRCpmGUA
+1455,"Outlaw, The (1943)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,M-CSWzhbzzk
+1456,Beat the Devil (1954),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,y6X_KEGaG-A
+1457,Love Is All There Is (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,yZXapOBN--0
+1458,"Damsel in Distress, A (1937)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,2BZ4-564O_w
+1459,Madame Butterfly (1995),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,fgANS15AN4I
+1460,Sleepover (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,TQ6Whebssa8
+1461,Here Comes Cookie (1935),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Hycmkk0OtnU
+1462,"Thieves (Voleurs, Les) (1996)",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,4zwTRJ_Cfx8
+1463,"Boys, Les (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,OFl0fuIRl9A
+1464,"Stars Fell on Henrietta, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,W__mIvuAiSc
+1465,Last Summer in the Hamptons (1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,FmYKCjilWAs
+1466,Margaret's Museum (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9EKsbQve2Qc
+1467,"Saint of Fort Washington, The (1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mItykW7dy4g
+1468,"Cure, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,nL4YbDtGaDU
+1469,Tom and Huck (1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-C-xXZyX2zU
+1470,Gumby: The Movie (1995),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vyOCHDZxxUo
+1471,Hideaway (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,oZaWqjppCsg
+1472,"Visitors, The (Visiteurs, Les) (1993)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,rI44jjsDULY
+1473,"Little Princess, The (1939)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Khyp-Gzi4u4
+1474,Nina Takes a Lover (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2IfHLq0k6Q8
+1475,Bhaji on the Beach (1993),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,20KdLa-9d2c
+1476,Raw Deal (1948),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,bphmrlpvJJo
+1477,Nightwatch (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,GH7AJl4vUHM
+1478,Dead Presidents (1995),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,iB3JtJJZJG8
+1479,Reckless (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,uUg76lizbSA
+1480,Herbie Rides Again (1974),0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,swDEaCgluWQ
+1481,S.F.W. (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CLQ_dlkA6sU
+1482,"Gate of Heavenly Peace, The (1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,RA-UQyCZskA
+1483,"Man in the Iron Mask, The (1998)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,gnNt7l2nA_o
+1484,"Jerky Boys, The (1994)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Jl7b3E4kbeY
+1485,"Colonel Chabert, Le (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,r7301zlUHQg
+1486,Girl in the Cadillac (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EvrELWjSxUU
+1487,Even Cowgirls Get the Blues (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,K_Q1VTuna-w
+1488,Germinal (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,chCnbs7UMSk
+1489,Chasers (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ubV1jwg9Ce0
+1490,Fausto (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UyW46Pbsp9k
+1491,Tough and Deadly (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,VEvGlp8JELg
+1492,Window to Paris (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,S-fO805VDqI
+1493,"Modern Affair, A (1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25fke7tsxY8
+1494,"Mostro, Il (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CE9h4jkNYoI
+1495,Flirt (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QB7tT_qemsk
+1496,Carpool (1996),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,vprpfTqLrIU
+1497,"Line King: Al Hirschfeld, The (1996)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,JC1t2DmCeAU
+1498,Farmer & Chase (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,moTWWKnxpm4
+1499,Grosse Fatigue (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,wAZflKc-STY
+1500,Santa with Muscles (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CNAF2uf-_Y4
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2aqR1Uc8B-4
+1502,Naked in New York (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ayhyRRhCmzM
+1503,Gold Diggers: The Secret of Bear Mountain (1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ZF42bsaRAac
+1504,"Bewegte Mann, Der (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,uUu_OGobBes
+1505,Killer: A Journal of Murder (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,v_Vl3Mf1ccY
+1506,Nelly & Monsieur Arnaud (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,N-5xlT6dDwQ
+1507,Three Lives and Only One Death (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PRri30gVBIw
+1508,"Babysitter, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,wLq2uQkKcxk
+1509,Getting Even with Dad (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,gvlEQ7vLMro
+1510,Mad Dog Time (1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5OR01NFAf0U
+1511,Children of the Revolution (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,EzKASl2T9d0
+1512,"World of Apu, The (Apur Sansar) (1959)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,kCnABec7Rsk
+1513,Sprung (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0g-CKrZ3fWQ
+1514,Dream With the Fishes (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,J4Sui17b_tg
+1515,Wings of Courage (1995),0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4rprRFWfr9U
+1516,"Wedding Gift, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2Bl5ABDEAPo
+1517,Race the Sun (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tZ1CGEFd6kw
+1518,Losing Isaiah (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,X5i-SK8I8-w
+1519,New Jersey Drive (1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6wEM9KYgMx4
+1520,"Fear, The (1995)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,DXFwUAnu2Fk
+1521,Mr. Wonderful (1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,66EaReegWOY
+1522,Trial by Jury (1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,RBF5FGjDnBw
+1523,"Good Man in Africa, A (1994)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,x3z47WainE0
+1524,Kaspar Hauser (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tzxreLUzuUI
+1525,"Object of My Affection, The (1998)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5aW3yiEYdQk
+1526,Witness (1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,T9AtV8FIzFI
+1527,Senseless (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,A6pM-4m7xQ0
+1528,Nowhere (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-h3x929gmmI
+1529,Underground (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,rYTvmLvLchs
+1530,Jefferson in Paris (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,oTpFci6HNgA
+1531,Far From Home: The Adventures of Yellow Dog (1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fHbI2fohgeI
+1532,Foreign Student (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9lIFEoweLYU
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,IS9g53HOOU0
+1534,Twin Town (1997),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Pplx0p01EJA
+1535,"Enfer, L' (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,zIk7T61lC28
+1536,Aiqing wansui (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Z6L1R0g5Bm8
+1537,Cosi (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6oXSbnQPHs8
+1538,All Over Me (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9NP604K3Ny0
+1539,Being Human (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,d0SU3f2aRjc
+1540,"Amazing Panda Adventure, The (1995)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,zUOh4bGrVsE
+1541,"Beans of Egypt, Maine, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,m56zlCfjz3E
+1542,"Scarlet Letter, The (1926)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8s3VVBECAEI
+1543,Johns (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TPSqGXFqqCI
+1544,It Takes Two (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yh1OH4NnLWQ
+1545,Frankie Starlight (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2vrYABGERJw
+1546,Shadows (Cienie) (1988),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,JndsZnzU-oo
+1547,"Show, The (1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,JHIfHL5UgFs
+1548,The Courtyard (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9hmhBeRF0Sk
+1549,Dream Man (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bpiMKiI1PUM
+1550,Destiny Turns on the Radio (1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,h4RTbQv_EoM
+1551,"Glass Shield, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Cu1RIxNf0M8
+1552,"Hunted, The (1995)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,op6AeXNWG50
+1553,"Underneath, The (1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,k1U6Sb7DH8k
+1554,Safe Passage (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VmyKtwOzBgc
+1555,"Secret Adventures of Tom Thumb, The (1993)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,t8G_imDKpVA
+1556,Condition Red (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Gcb7B83SPek
+1557,Yankee Zulu (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,gUYyFdfBMnw
+1558,Aparajito (1956),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1DQsFDY7Z7k
+1559,Hostile Intentions (1994),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,iVw0sLHX3dE
+1560,Clean Slate (Coup de Torchon) (1981),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,LFJuojgVSAk
+1561,Tigrero: A Film That Was Never Made (1994),0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,bTzniarzoyA
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+1563,"Promise, The (Versprechen, Das) (1994)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7oDNiok05Ts
+1564,To Cross the Rubicon (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,nwk8y0kTk1E
+1565,Daens (1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,c4ht_cLdWVg
+1566,"Man from Down Under, The (1943)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bvDdJI9-7os
+1567,Careful (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,09guxj1weq8
+1568,Vermont Is For Lovers (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ObXJvC49_4k
+1569,"Vie est belle, La (Life is Rosey) (1987)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,9yagrz6tRaM
+1570,Quartier Mozart (1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,YEI42ZaDdrc
+1571,Touki Bouki (Journey of the Hyena) (1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gotSPn3RsE8
+1572,Wend Kuuni (God's Gift) (1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gKkhubPAfm4
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,vOU-YaWAwz0
+1574,Pharaoh's Army (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5C7XUvFkKpM
+1575,"I, Worst of All (Yo, la peor de todas) (1990)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,N0cX10TYo2M
+1576,"Hungarian Fairy Tale, A (1987)",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3Kzuils7grs
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1HkkMSTEKms
+1578,"Collectionneuse, La (1967)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HMcPo-S1v-k
+1579,Baton Rouge (1988),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Lj2odhzbISw
+1580,Liebelei (1933),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,mgNUNTVmZwo
+1581,"Woman in Question, The (1950)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,YATfZRHl6-k
+1582,T-Men (1947),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,RVcgvVYI6W0
+1583,"Invitation, The (Zaproszenie) (1986)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,_nRtxtvqZu8
+1584,"Symphonie pastorale, La (1946)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,wPkVD4Ga35s
+1585,American Dream (1990),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7eZMfQqcjmM
+1586,Lashou shentan (1992),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,SqMPzcGQJzA
+1587,Terror in a Texas Town (1958),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4dh5-rTIVzE
+1588,Salut cousin! (1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,YnVzRiZ2EeU
+1589,Schizopolis (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,f2E7ArARdaE
+1590,"To Have, or Not (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gSz13CIyX7M
+1591,Duoluo tianshi (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4iulZqioWZM
+1592,"Magic Hour, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,czuP9LDime8
+1593,Death in Brunswick (1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,E9JXrJ-y5tA
+1594,Everest (1998),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1khEBbx1xbU
+1595,Shopping (1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,hjYtwGdK_48
+1596,Nemesis 2: Nebula (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,L-DNN2CaRO8
+1597,Romper Stomper (1992),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,kizEd4wD3Rw
+1598,City of Industry (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1MKr_bETSWA
+1599,Someone Else's America (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M2mtjPZ9ZuA
+1600,Guantanamera (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sS4v3d8YFHI
+1601,Office Killer (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,E9j6GNK-hsk
+1602,"Price Above Rubies, A (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,xbahXLHtULk
+1603,Angela (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,jbbe8XBGKsM
+1604,He Walked by Night (1948),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,FMkGu8AQScA
+1605,Love Serenade (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Rk92ymOMlyc
+1606,Deceiver (1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,xFCtD18fFng
+1607,Hurricane Streets (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PZibLqWZ7cM
+1608,Buddy (1997),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,WMvW_-N9FUM
+1609,B*A*P*S (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,tSJmJ4r4bxs
+1610,"Truth or Consequences, N.M. (1997)",0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,rbEZJWi0X9o
+1611,Intimate Relations (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ExRIGYRgQdY
+1612,"Leading Man, The (1996)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,vK9g1ZOae1A
+1613,Tokyo Fist (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fwvBmf9LALw
+1614,"Reluctant Debutante, The (1958)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,7h9s49Lv-wQ
+1615,Warriors of Virtue (1997),0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-4STNypFBh0
+1616,Desert Winds (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rNDjKLp0S7w
+1617,Hugo Pool (1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,e8Dn186y6Fk
+1618,King of New York (1990),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bt94pENFmjc
+1619,All Things Fair (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9X_1qJuJbSw
+1620,"Sixth Man, The (1997)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3JCZ-DhaWKw
+1621,Butterfly Kiss (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,fG4k60hDhqw
+1622,"Paris, France (1993)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,XQq42MeNKMg
+1623,"Cérémonie, La (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,H63eq2zYsI0
+1624,Hush (1998),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,vXd5pafCmEU
+1625,Nightwatch (1997),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,GH7AJl4vUHM
+1626,Nobody Loves Me (Keiner liebt mich) (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,58UaMGcnvuk
+1627,"Wife, The (1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,j-D0QiMpGKc
+1628,Lamerica (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,tDPnoOngVOY
+1629,Nico Icon (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,WBgFAzRLMbo
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,YbeNlh8UU30
+1631,"Slingshot, The (1993)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,t2jJbFCd1b4
+1632,Land and Freedom (Tierra y libertad) (1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,kjpoR_bax1k
+1633,Á köldum klaka (Cold Fever) (1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,umkWzFv5iuI
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+1635,Two Friends (1986) ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,WWWZYp_DARQ
+1636,Brothers in Trouble (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,QEFxzbRLOmg
+1637,Girls Town (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VfMP8-FzTdo
+1638,Normal Life (1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,dHiZk7jHiTU
+1639,Bitter Sugar (Azucar Amargo) (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AoGmdbzxLFc
+1640,"Eighth Day, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UddCQaylBHc
+1641,Dadetown (1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,K7h-_T2ZU0g
+1642,Some Mother's Son (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,nUWtyUSC-NE
+1643,Angel Baby (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,rx9wZfaxIfQ
+1644,Sudden Manhattan (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ss2eIniS7gU
+1645,"Butcher Boy, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mdvtR8Hup4E
+1646,Men With Guns (1997),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qXtx2213Baw
+1647,Hana-bi (1997),0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,PwTWtAE3ylY
+1648,"Niagara, Niagara (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tjlmto66K0Y
+1649,"Big One, The (1997)",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Fm21JY7WhyY
+1650,"Butcher Boy, The (1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,mdvtR8Hup4E
+1651,"Spanish Prisoner, The (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,DPF-5KNmqq4
+1652,Temptress Moon (Feng Yue) (1996),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,kDKJv5rnExI
+1653,Entertaining Angels: The Dorothy Day Story (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6kvd_GXZ4l4
+1654,Chairman of the Board (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,c4dcjfaO0qk
+1655,"Favor, The (1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1_isvjR48Tk
+1656,Little City (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ZabAourX87I
+1657,Target (1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,KbjTJRZkt5Q
+1658,"Substance of Fire, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,96ySXx-84JA
+1659,Getting Away With Murder (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,P4TnmpCVJEk
+1660,Small Faces (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4UgS9TvqavQ
+1661,"New Age, The (1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0hEU3WAs34o
+1662,Rough Magic (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4WuEkA0ns-w
+1663,Nothing Personal (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,7uGVPYDtrQo
+1664,8 Heads in a Duffel Bag (1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,l59Ps8fyQ0s
+1665,"Brother's Kiss, A (1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,gODoxcVJL_I
+1666,Ripe (1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EyvCKIqRqFU
+1667,"Next Step, The (1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,eTjDsENDZ6s
+1668,Wedding Bell Blues (1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0j-lFbYisaA
+1669,MURDER and murder (1996),0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,P4TnmpCVJEk
+1670,Tainted (1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,8BtmUVysbSQ
+1671,"Further Gesture, A (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qKIDZ0ccfO8
+1672,Kika (1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,z5bmEnGrA4s
+1673,Mirage (1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,RBQ41XeJON8
+1674,Mamma Roma (1962),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Xu79D-JG6KY
+1675,"Sunchaser, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BFG7Cd9iClc
+1676,"War at Home, The (1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,fSVfEcm76hU
+1677,Sweet Nothing (1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,X0luk4Ve_S8
+1678,Mat' i syn (1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,et1XK0sOUN8
+1679,B. Monkey (1998),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,SLfl0RiOvEM
+1680,Sliding Doors (1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Da-Mizk86AE
+1681,You So Crazy (1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Nl-U_R7VEr8
+1682,Scream of Stone (Schrei aus Stein) (1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,qdve0Ni73Vw
