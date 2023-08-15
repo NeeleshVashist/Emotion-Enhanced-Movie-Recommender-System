@@ -46,7 +46,7 @@ The project's methodology includes the following key steps:
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/MovieInsightsHub.git
+   git clone https://github.com/NeeleshVashist/Emotion-Enhanced-Movie-Recommender-System.git
    ```
 
 ### Usage
